@@ -105,7 +105,7 @@ body {
   height: 700px;
   border: 3px solid #ccc;
   background: #eee;
-  background-image: url("/butlerfinalproject/images/HP.jpg");
+  background-image: url("../butlerfinalproject/images/HP.jpg");
   background-repeat: no-repeat;
   margin: auto;
   padding: 15px 10px;
@@ -127,7 +127,7 @@ body {
 	height: 700px;
 	border: 3px solid #ccc;
 	background: #eee;
-	background-image: url("/butlerfinalproject/images/filmreel2.jpeg");
+	background-image: url("../butlerfinalproject/images/filmreel2.jpeg");
 	background-repeat: no-repeat;
 	margin: auto;
 	padding: 15px 10px;
@@ -361,7 +361,7 @@ a:hover {
 /* Header */
 #header-wrapper {
 	padding: 7em 0em;
-	background-image: url(/butlerfinalproject/images/BlockbusterCopy.png);
+	background-image: url(../butlerfinalproject/images/BlockbusterCopy.png);
 	background-color: transparent;
 	background-position: center;
 	background-size: contain;
@@ -370,7 +370,7 @@ a:hover {
 
 #header-wrapper1 {
 	padding: 7em 0em;
-	background-image: url(/butlerfinalproject/images/BlockbusterCopy.png), url(/images/HP_Copy.jpg);
+	background-image: url(../butlerfinalproject/images/BlockbusterCopy.png), url(/images/HP_Copy.jpg);
 	background-color: transparent;
 	background-position: center;
 	background-size: contain;
@@ -466,7 +466,7 @@ a:hover {
 #menu-wrapper {
 	overflow: hidden;
 	height: 55px;
-	background: url(/butlerfinalproject/images/img04.jpg) repeat-x left top;
+	background: url(../butlerfinalproject/images/img04.jpg) repeat-x left top;
 }
 
 #menu {
@@ -506,7 +506,7 @@ a:hover {
 }
 
 #menu a:hover, #menu .current_page_item a {
-	background: url(/butlerfinalproject/images/img05.jpg) repeat-x left top;
+	background: url(../butlerfinalproject/images/img05.jpg) repeat-x left top;
 	text-decoration: none;
 	color: #FFFFFF;
 }
