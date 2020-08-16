@@ -370,7 +370,7 @@ a:hover {
 
 #header-wrapper1 {
 	padding: 7em 0em;
-	background-image: url(../../images/BlockbusterCopy.png), url(/images/HP_Copy.jpg);
+	background-image: url(../../images/BlockbusterCopy.png), url(../../images/HP_Copy.jpg);
 	background-color: transparent;
 	background-position: center;
 	background-size: contain;
