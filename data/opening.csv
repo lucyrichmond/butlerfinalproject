@@ -1,0 +1,1001 @@
+,Movie Title,Opening,Total Gross,% of Total,Theaters,Average per Theater,Date,Season Number,Release Year,Movie & Year,Season Name
+0,Avengers: Endgame,357115007,858373000,41.6%,4662,76601,2019-04-26,2,2019,Avengers: Endgame (2019),Spring
+1,Avengers: Infinity War,257698183,678815482,38%,4474,57599,2018-04-27,2,2018,Avengers: Infinity War (2018),Spring
+2,Star Wars: Episode VII - The Force Awakens,247966675,936662225,26.5%,4134,59982,2015-12-18,1,2015,Star Wars: Episode VII - The Force Awakens (2015),Winter
+3,Star Wars: Episode VIII - The Last Jedi,220009584,620181382,35.5%,4232,51987,2017-12-15,1,2017,Star Wars: Episode VIII - The Last Jedi (2017),Winter
+4,Jurassic World,208806270,652270625,32%,4274,48855,2015-06-12,3,2015,Jurassic World (2015),Summer
+5,The Avengers,207438708,623357910,33.3%,4349,47698,2012-05-04,2,2012,The Avengers (2012),Spring
+6,Black Panther,202003951,700059566,28.9%,4020,50249,2018-02-16,1,2018,Black Panther (2018),Winter
+7,The Lion King,191770759,543638043,35.3%,4725,40586,2019-07-19,3,2019,The Lion King (2019),Summer
+8,Avengers: Age of Ultron,191271109,459005868,41.7%,4276,44731,2015-05-01,2,2015,Avengers: Age of Ultron (2015),Spring
+9,The Incredibles 2,182687905,608581744,30%,4410,41425,2018-06-15,3,2018,The Incredibles 2 (2018),Summer
+10,Captain America: Civil War,179139142,408084349,43.9%,4226,42389,2016-05-06,2,2016,Captain America: Civil War (2016),Spring
+11,Star Wars: The Rise of Skywalker,177383864,515202542,34.4%,4406,40259,2019-12-20,1,2019,Star Wars: The Rise of Skywalker (2019),Winter
+12,Beauty and the Beast,174750616,504014165,34.7%,4210,41508,2017-03-17,2,2017,Beauty and the Beast (2017),Spring
+13,Iron Man 3,174144585,409013994,42.6%,4253,40946,2013-05-03,2,2013,Iron Man 3 (2013),Spring
+14,Harry Potter and the Deathly Hallows: Part 2,169189427,381011219,44.4%,4375,38671,2011-07-15,3,2011,Harry Potter and the Deathly Hallows: Part 2 (2011),Summer
+15,Batman v Superman: Dawn of Justice,166007347,330360194,50.2%,4242,39134,2016-03-25,2,2016,Batman v Superman: Dawn of Justice (2016),Spring
+16,The Dark Knight Rises,160887295,448139099,35.9%,4404,36532,2012-07-20,3,2012,The Dark Knight Rises (2012),Summer
+17,The Dark Knight,158411483,533345358,29.7%,4366,36282,2008-07-18,3,2008,The Dark Knight (2008),Summer
+18,The Hunger Games: Catching Fire,158074286,424668047,37.2%,4163,37971,2013-11-22,4,2013,The Hunger Games: Catching Fire (2013),Fall
+19,Rogue One: A Star Wars Story,155081681,532177324,29.1%,4157,37306,2016-12-16,1,2016,Rogue One: A Star Wars Story (2016),Winter
+20,Captain Marvel,153433423,426829839,36%,4310,35599,2019-03-08,2,2019,Captain Marvel (2019),Spring
+21,The Hunger Games,152535747,408010692,37.4%,4137,36871,2012-03-23,2,2012,The Hunger Games (2012),Spring
+22,Spider-Man 3,151116516,336530303,44.9%,4252,35540,2007-05-04,2,2007,Spider-Man 3 (2007),Spring
+23,Jurassic World: Fallen Kingdom,148024610,417719760,35.4%,4475,33078,2018-06-22,3,2018,Jurassic World: Fallen Kingdom (2018),Summer
+24,Furious 7,147187040,353007020,41.7%,4004,36760,2015-04-03,2,2015,Furious 7 (2015),Spring
+25,Guardians of the Galaxy Vol. 2,146510104,389813101,37.6%,4347,33703,2017-05-05,2,2017,Guardians of the Galaxy Vol. 2 (2017),Spring
+26,The Twilight Saga: New Moon,142839137,296623634,48.2%,4024,35496,2009-11-20,4,2009,The Twilight Saga: New Moon (2009),Fall
+27,The Twilight Saga: Breaking Dawn - Part 2,141067634,292324737,48.3%,4070,34660,2012-11-16,4,2012,The Twilight Saga: Breaking Dawn - Part 2 (2012),Fall
+28,The Twilight Saga: Breaking Dawn - Part 1,138122261,281287133,49.1%,4061,34011,2011-11-18,4,2011,The Twilight Saga: Breaking Dawn - Part 1 (2011),Fall
+29,Pirates of the Caribbean: Dead Man's Chest,135634554,423315812,32%,4133,32817,2006-07-07,3,2006,Pirates of the Caribbean: Dead Man's Chest (2006),Summer
+30,Finding Dory,135060273,486295561,27.8%,4305,31372,2016-06-17,3,2016,Finding Dory (2016),Summer
+31,Suicide Squad,133682248,325100054,41.1%,4255,31417,2016-08-05,3,2016,Suicide Squad (2016),Summer
+32,Deadpool,132434639,363070709,36.5%,3558,37221,2016-02-12,1,2016,Deadpool (2016),Winter
+33,Frozen II,130263358,477373578,27.3%,4440,29338,2019-11-22,4,2019,Frozen II (2019),Fall
+34,Iron Man 2,128122480,312433331,41%,4380,29251,2010-05-07,2,2010,Iron Man 2 (2010),Spring
+35,Deadpool 2,125507153,318491426,39.4%,4349,28858,2018-05-18,2,2018,Deadpool 2 (2018),Spring
+36,Harry Potter and the Deathly Hallows: Part 1,125017372,295983305,42.2%,4125,30307,2010-11-19,4,2010,Harry Potter and the Deathly Hallows: Part 1 (2010),Fall
+37,It,123403419,327481748,37.7%,4103,30076,2017-09-08,4,2017,It (2017),Fall
+38,Thor: Ragnarok,122744989,315058289,39%,4080,30084,2017-11-03,4,2017,Thor: Ragnarok (2017),Fall
+39,The Hunger Games: Mockingjay - Part 1,121897634,337135885,36.2%,4151,29365,2014-11-21,4,2014,The Hunger Games: Mockingjay - Part 1 (2014),Fall
+40,Shrek the Third,121629270,322719944,37.7%,4122,29507,2007-05-18,2,2007,Shrek the Third (2007),Spring
+41,Toy Story 4,120908065,434038008,27.9%,4575,26427,2019-06-21,3,2019,Toy Story 4 (2019),Summer
+42,Spider-Man: Homecoming,117027503,334201140,35%,4348,26915,2017-07-07,3,2017,Spider-Man: Homecoming (2017),Summer
+43,Man of Steel,116619362,291045518,40.1%,4207,27720,2013-06-14,3,2013,Man of Steel (2013),Summer
+44,Alice in Wonderland,116101023,334191110,34.7%,3728,31142,2010-03-05,2,2010,Alice in Wonderland (2010),Spring
+45,Minions,115718405,336045770,34.4%,4301,26905,2015-07-10,3,2015,Minions (2015),Summer
+46,Spider-Man,114844116,403706375,28.4%,3615,31768,2002-05-03,2,2002,Spider-Man (2002),Spring
+47,Pirates of the Caribbean: At World's End,114732820,309420425,37.1%,4362,26302,2007-05-25,2,2007,Pirates of the Caribbean: At World's End (2007),Spring
+48,Toy Story 3,110307189,415004880,26.6%,4028,27385,2010-06-18,3,2010,Toy Story 3 (2010),Summer
+49,Transformers: Revenge of the Fallen,108966307,402111870,27.1%,4234,25736,2009-06-24,3,2009,Transformers: Revenge of the Fallen (2009),Summer
+50,Star Wars: Episode III - Revenge of the Sith,108435841,380270577,28.5%,3661,29619,2005-05-19,2,2005,Star Wars: Episode III - Revenge of the Sith (2005),Spring
+51,Shrek 2,108037878,441226247,24.5%,4163,25951,2004-05-19,2,2004,Shrek 2 (2004),Spring
+52,The Secret Life of Pets,104352905,368384330,28.3%,4370,23879,2016-07-08,3,2016,The Secret Life of Pets (2016),Summer
+53,The Jungle Book,103261464,364001123,28.4%,4028,25635,2016-04-15,2,2016,The Jungle Book (2016),Spring
+54,Wonder Woman,103251471,412563408,25%,4165,24790,2017-06-02,3,2017,Wonder Woman (2017),Summer
+55,X-Men: The Last Stand,102750665,234362462,43.8%,3690,27845,2006-05-26,2,2006,X-Men: The Last Stand (2006),Spring
+56,Harry Potter and the Goblet of Fire,102685961,290013036,35.4%,3858,26616,2005-11-18,4,2005,Harry Potter and the Goblet of Fire (2005),Fall
+57,The Hunger Games: Mockingjay - Part 2,102665981,281723902,36.4%,4175,24590,2015-11-20,4,2015,The Hunger Games: Mockingjay - Part 2 (2015),Fall
+58,Indiana Jones and the Kingdom of the Crystal Skull,100137835,317101119,31.6%,4260,23506,2008-05-22,2,2008,Indiana Jones and the Kingdom of the Crystal Skull (2008),Spring
+59,Transformers: Age of Extinction,100038390,245439076,40.8%,4233,23632,2014-06-27,3,2014,Transformers: Age of Extinction (2014),Summer
+60,The Fate of the Furious,98786705,226008385,43.7%,4310,22920,2017-04-14,2,2017,The Fate of the Furious (2017),Spring
+61,Iron Man,98618668,318604126,31%,4105,24024,2008-05-02,2,2008,Iron Man (2008),Spring
+62,Transformers: Dark of the Moon,97852865,352390543,27.8%,4088,23936,2011-06-29,3,2011,Transformers: Dark of the Moon (2011),Summer
+63,Fast & Furious 6,97375245,238679850,40.8%,3658,26619,2013-05-24,2,2013,Fast & Furious 6 (2013),Spring
+64,Joker,96202337,335451311,28.7%,4374,21994,2019-10-04,4,2019,Joker (2019),Fall
+65,Captain America: The Winter Soldier,95023721,259766572,36.6%,3938,24129,2014-04-04,2,2014,Captain America: The Winter Soldier (2014),Spring
+66,Guardians of the Galaxy,94320883,333176600,28.3%,4080,23117,2014-08-01,3,2014,Guardians of the Galaxy (2014),Summer
+67,Justice League,93842239,229024295,41%,4051,23165,2017-11-17,4,2017,Justice League (2017),Fall
+68,Harry Potter and the Prisoner of Azkaban,93687367,249541069,37.5%,3855,24302,2004-06-04,3,2004,Harry Potter and the Prisoner of Azkaban (2004),Summer
+69,Godzilla,93188384,200676069,46.4%,3952,23580,2014-05-16,2,2014,Godzilla (2014),Spring
+70,Spider-Man: Far from Home,92579212,390532085,23.7%,4634,19978,2019-07-02,3,2019,Spider-Man: Far from Home (2019),Summer
+71,The Matrix Reloaded,91774413,281576461,32.6%,3603,25471,2003-05-15,2,2003,The Matrix Reloaded (2003),Spring
+72,The Amazing Spider-Man 2,91608337,202853933,45.2%,4324,21186,2014-05-02,2,2014,The Amazing Spider-Man 2 (2014),Spring
+73,Aladdin,91500929,355559216,25.7%,4476,20442,2019-05-24,2,2019,Aladdin (2019),Spring
+74,It Chapter Two,91062152,211593228,43%,4570,19926,2019-09-06,4,2019,It Chapter Two (2019),Fall
+75,X-Men: Days of Future Past,90823660,233921534,38.8%,3996,22728,2014-05-23,2,2014,X-Men: Days of Future Past (2014),Spring
+76,Inside Out,90440272,356461711,25.4%,3946,22919,2015-06-19,3,2015,Inside Out (2015),Summer
+77,Harry Potter and the Sorcerer's Stone,90294621,317575550,28.4%,3672,24590,2001-11-16,4,2001,Harry Potter and the Sorcerer's Stone (2001),Fall
+78,Pirates of the Caribbean: On Stranger Tides,90151958,241071802,37.4%,4155,21697,2011-05-20,2,2011,Pirates of the Caribbean: On Stranger Tides (2011),Spring
+79,Logan,88411916,226277068,39.1%,4071,21717,2017-03-03,2,2017,Logan (2017),Spring
+80,Skyfall,88364714,304360277,29%,3505,25211,2012-11-09,4,2012,Skyfall (2012),Fall
+81,Harry Potter and the Chamber of Secrets,88357488,261988482,33.7%,3682,23997,2002-11-15,4,2002,Harry Potter and the Chamber of Secrets (2002),Fall
+82,Spider-Man 2,88156227,373585825,23.6%,4152,21232,2004-06-30,3,2004,Spider-Man 2 (2004),Summer
+83,Fast Five,86198765,209837675,41.1%,3644,23654,2011-04-29,2,2011,Fast Five (2011),Spring
+84,The Hangover Part II,85946294,254464305,33.8%,3615,23774,2011-05-26,2,2011,The Hangover Part II (2011),Spring
+85,Thor: The Dark World,85737841,206362140,41.6%,3841,22321,2013-11-08,4,2013,Thor: The Dark World (2013),Fall
+86,X2: X-Men United,85558731,214949694,39.8%,3741,22870,2003-05-02,2,2003,X2: X-Men United (2003),Spring
+87,Fifty Shades of Grey,85171450,166167230,51.3%,3646,23360,2015-02-13,1,2015,Fifty Shades of Grey (2015),Winter
+88,Doctor Strange,85058311,232641920,36.6%,3882,21910,2016-11-04,4,2016,Doctor Strange (2016),Fall
+89,X-Men Origins: Wolverine,85058003,179883157,47.3%,4099,20750,2009-05-01,2,2009,X-Men Origins: Wolverine (2009),Spring
+90,The Hobbit: An Unexpected Journey,84617303,303003568,27.9%,4045,20918,2012-12-14,1,2012,The Hobbit: An Unexpected Journey (2012),Winter
+91,Solo: A Star Wars Story,84420489,213767512,39.5%,4381,19269,2018-05-25,2,2018,Solo: A Star Wars Story (2018),Spring
+92,The Passion of the Christ,83848082,370274604,22.6%,3043,27554,2004-02-25,1,2004,The Passion of the Christ (2004),Winter
+93,Despicable Me 2,83517315,368065385,22.7%,3997,20895,2013-07-03,3,2013,Despicable Me 2 (2013),Summer
+94,Monsters University,82429469,268492764,30.7%,4004,20586,2013-06-21,3,2013,Monsters University (2013),Summer
+95,Venom,80255756,213515506,37.6%,4250,18883,2018-10-05,4,2018,Venom (2018),Fall
+96,Star Wars: Episode II - Attack of the Clones,80027814,302191252,26.5%,3161,25317,2002-05-16,2,2002,Star Wars: Episode II - Attack of the Clones (2002),Spring
+97,Oz The Great and Powerful,79110453,234911825,33.7%,3912,20222,2013-03-08,2,2013,Oz The Great and Powerful (2013),Spring
+98,Harry Potter and the Half-Blood Prince,77835727,301959197,25.8%,4325,17996,2009-07-15,3,2009,Harry Potter and the Half-Blood Prince (2009),Summer
+99,I Am Legend,77211321,256393010,30.1%,3606,21411,2007-12-14,1,2007,I Am Legend (2007),Winter
+100,Harry Potter and the Order of the Phoenix,77108414,292004738,26.4%,4285,17994,2007-07-11,3,2007,Harry Potter and the Order of the Phoenix (2007),Summer
+101,The Da Vinci Code,77073388,217536138,35.4%,3735,20635,2006-05-19,2,2006,The Da Vinci Code (2006),Spring
+102,Avatar,77025481,749766139,10.3%,3452,22313,2009-12-18,1,2009,Avatar (2009),Winter
+103,Halloween,76221545,159342015,47.8%,3928,19404,2018-10-19,4,2018,Halloween (2018),Fall
+104,Ant-Man and the Wasp,75812205,216648740,35%,4206,18024,2018-07-06,3,2018,Ant-Man and the Wasp (2018),Summer
+105,Star Trek,75204289,257730019,29.2%,3849,19538,2009-05-08,2,2009,Star Trek (2009),Spring
+106,Zootopia,75063401,341268248,22%,3827,19614,2016-03-04,2,2016,Zootopia (2016),Spring
+107,Fantastic Beasts and Where to Find Them,74403387,234037575,31.8%,4144,17954,2016-11-18,4,2016,Fantastic Beasts and Where to Find Them (2016),Fall
+108,The Simpsons Movie,74036787,183135014,40.4%,3922,18877,2007-07-27,3,2007,The Simpsons Movie (2007),Summer
+109,The Hobbit: The Desolation of Smaug,73645197,258366855,28.5%,3903,18868,2013-12-13,1,2013,The Hobbit: The Desolation of Smaug (2013),Winter
+110,Austin Powers in Goldmember,73071188,213307889,34.3%,3613,20224,2002-07-26,3,2002,Austin Powers in Goldmember (2002),Summer
+111,The Lord of the Rings: The Return of the King,72629713,377027325,19.3%,3703,19613,2003-12-17,1,2003,The Lord of the Rings: The Return of the King (2003),Winter
+112,Dawn of the Planet of the Apes,72611427,208545589,34.8%,3967,18303,2014-07-11,3,2014,Dawn of the Planet of the Apes (2014),Summer
+113,Despicable Me 3,72434025,264624300,27.4%,4529,15993,2017-06-30,3,2017,Despicable Me 3 (2017),Summer
+114,The Lost World: Jurassic Park,72132785,229086679,31.5%,3281,21985,1997-05-23,2,1997,The Lost World: Jurassic Park (1997),Spring
+115,Us,71117625,175084580,40.6%,3741,19010,2019-03-22,2,2019,Us (2019),Spring
+116,Fast & Furious,70950500,155064265,45.8%,3461,20500,2009-04-03,2,2009,Fast & Furious (2009),Spring
+117,300,70885301,210614939,33.7%,3103,22844,2007-03-09,2,2007,300 (2007),Spring
+118,Shrek Forever After,70838207,238736787,29.7%,4359,16251,2010-05-21,2,2010,Shrek Forever After (2010),Spring
+119,Transformers,70502384,319246193,22.1%,4011,17577,2007-07-03,3,2007,Transformers (2007),Summer
+120,The Incredibles,70467623,261441092,27%,3933,17917,2004-11-05,4,2004,The Incredibles (2004),Fall
+121,Spectre,70403148,200074609,35.2%,3929,17918,2015-11-06,4,2015,Spectre (2015),Fall
+122,Finding Nemo,70251710,339714978,20.7%,3374,20821,2003-05-30,2,2003,Finding Nemo (2003),Spring
+123,The Lorax,70217070,214030500,32.8%,3729,18830,2012-03-02,2,2012,The Lorax (2012),Spring
+124,Star Trek Into Darkness,70165559,228778661,30.7%,3868,18140,2013-05-16,2,2013,Star Trek Into Darkness (2013),Spring
+125,Twilight,69637740,192769854,36.1%,3419,20367,2008-11-21,4,2008,Twilight (2008),Fall
+126,Maleficent,69431298,241410378,28.8%,3948,17586,2014-05-30,2,2014,Maleficent (2014),Spring
+127,The Bourne Ultimatum,69283690,227471070,30.5%,3660,18929,2007-08-03,3,2007,The Bourne Ultimatum (2007),Summer
+128,Pitch Perfect 2,69216890,184296230,37.6%,3473,19930,2015-05-15,2,2015,Pitch Perfect 2 (2015),Spring
+129,The Lego Movie,69050279,257760692,26.8%,3775,18291,2014-02-07,1,2014,The Lego Movie (2014),Winter
+130,The Day After Tomorrow,68743584,186740799,36.8%,3425,20071,2004-05-28,2,2004,The Day After Tomorrow (2004),Spring
+131,Planet of the Apes,68532960,180011740,38.1%,3500,19580,2001-07-27,3,2001,Planet of the Apes (2001),Summer
+132,The Mummy Returns,68139035,202019785,33.7%,3401,20035,2001-05-04,2,2001,The Mummy Returns (2001),Spring
+133,Up,68108790,293004164,23.2%,3766,18085,2009-05-29,2,2009,Up (2009),Spring
+134,Ice Age: The Meltdown,68033544,195330621,34.8%,3964,17162,2006-03-31,2,2006,Ice Age: The Meltdown (2006),Spring
+135,Bruce Almighty,67953330,242829261,28%,3483,19510,2003-05-23,2,2003,Bruce Almighty (2003),Spring
+136,Cinderella,67877361,201151353,33.7%,3845,17653,2015-03-13,2,2015,Cinderella (2015),Spring
+137,Aquaman,67873522,335061807,20.3%,4125,16454,2018-12-21,1,2018,Aquaman (2018),Winter
+138,Dr. Seuss' the Grinch,67572855,270620950,25%,4141,16318,2018-11-09,4,2018,Dr. Seuss' the Grinch (2018),Fall
+139,Quantum of Solace,67528882,168368427,40.1%,3451,19567,2008-11-14,4,2008,Quantum of Solace (2008),Fall
+140,Rush Hour 2,67408222,226164286,29.8%,3118,21619,2001-08-03,3,2001,Rush Hour 2 (2001),Summer
+141,World War Z,66411834,202359711,32.8%,3607,18411,2013-06-21,3,2013,World War Z (2013),Summer
+142,Brave,66323594,237283207,28%,4164,15927,2012-06-22,3,2012,Brave (2012),Summer
+143,Cars 2,66135507,191452396,34.5%,4115,16071,2011-06-24,3,2011,Cars 2 (2011),Summer
+144,X-Men: Apocalypse,65769562,155442489,42.3%,4150,15848,2016-05-27,2,2016,X-Men: Apocalypse (2016),Spring
+145,Thor,65723338,181030624,36.3%,3955,16617,2011-05-06,2,2011,Thor (2011),Spring
+146,Teenage Mutant Ninja Turtles,65575105,191204754,34.3%,3845,17054,2014-08-08,3,2014,Teenage Mutant Ninja Turtles (2014),Summer
+147,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",65556312,291710957,22.5%,3616,18129,2005-12-09,1,2005,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",Winter
+148,2012,65237614,166112167,39.3%,3404,19164,2009-11-13,4,2009,2012 (2009),Fall
+149,Captain America: The First Avenger,65058524,176654505,36.8%,3715,17512,2011-07-22,3,2011,Captain America: The First Avenger (2011),Summer
+150,War of the Worlds,64878725,234280354,27.7%,3908,16601,2005-06-29,3,2005,War of the Worlds (2005),Summer
+151,The Twilight Saga: Eclipse,64832191,300531751,21.6%,4468,14510,2010-06-30,3,2010,The Twilight Saga: Eclipse (2010),Summer
+152,Star Wars: Episode I - The Phantom Menace,64820970,431088295,15%,2970,21825,1999-05-19,2,1999,Star Wars: Episode I - The Phantom Menace (1999),Spring
+153,Madagascar: Escape 2 Africa,63106589,180010950,35.1%,4056,15558,2008-11-07,4,2008,Madagascar: Escape 2 Africa (2008),Fall
+154,WALL·E,63087526,223808164,28.2%,3992,15803,2008-06-27,3,2008,WALL·E (2008),Summer
+155,Pirates of the Caribbean: Dead Men Tell No Tales,62983253,172558876,36.5%,4276,14729,2017-05-26,2,2017,Pirates of the Caribbean: Dead Men Tell No Tales (2017),Spring
+156,Inception,62785337,292576195,21.5%,3792,16557,2010-07-16,3,2010,Inception (2010),Summer
+157,Hancock,62603879,227946274,27.5%,3965,15789,2008-07-02,3,2008,Hancock (2008),Summer
+158,"Monsters, Inc.",62577067,255873250,24.5%,3237,19331,2001-11-02,4,2001,"Monsters, Inc. (2001)",Fall
+159,Bad Boys for Life,62504105,204417855,30.6%,3775,16557,2020-01-17,1,2020,Bad Boys for Life (2020),Winter
+160,Sherlock Holmes,62304277,209028679,29.8%,3626,17182,2009-12-25,1,2009,Sherlock Holmes (2009),Winter
+161,Fantastic Beasts: The Crimes of Grindelwald,62163104,159555901,39%,4163,14932,2018-11-16,4,2018,Fantastic Beasts: The Crimes of Grindelwald (2018),Fall
+162,Hulk,62128420,132177234,47%,3660,16974,2003-06-20,3,2003,Hulk (2003),Summer
+163,The Lord of the Rings: The Two Towers,62007528,339789881,18.2%,3622,17119,2002-12-18,1,2002,The Lord of the Rings: The Two Towers (2002),Winter
+164,The Amazing Spider-Man,62004688,262030663,23.7%,4318,14359,2012-07-03,3,2012,The Amazing Spider-Man (2012),Summer
+165,Mission: Impossible - Fallout,61236534,220159104,27.8%,4386,13961,2018-07-27,3,2018,Mission: Impossible - Fallout (2018),Summer
+166,Clash of the Titans,61235105,163214888,37.5%,3777,16212,2010-04-02,2,2010,Clash of the Titans (2010),Spring
+167,Kong: Skull Island,61025472,168052812,36.3%,3846,15867,2017-03-10,2,2017,Kong: Skull Island (2017),Spring
+168,Madagascar 3: Europe's Most Wanted,60316738,216391482,27.9%,4258,14165,2012-06-08,3,2012,Madagascar 3: Europe's Most Wanted (2012),Summer
+169,Kung Fu Panda,60239130,215434591,28%,4114,14642,2008-06-06,3,2008,Kung Fu Panda (2008),Summer
+170,Straight Outta Compton,60200180,161197785,37.4%,2757,21835,2015-08-14,3,2015,Straight Outta Compton (2015),Summer
+171,Cars,60119509,244082982,24.6%,3985,15086,2006-06-09,3,2006,Cars (2006),Summer
+172,Signs,60117080,227966634,26.4%,3264,18418,2002-08-02,3,2002,Signs (2002),Summer
+173,Fast & Furious Presents: Hobbs & Shaw,60038950,173956935,34.5%,4253,14116,2019-08-02,3,2019,Fast & Furious Presents: Hobbs & Shaw (2019),Summer
+174,Monsters vs. Aliens,59321095,198351526,29.9%,4104,14454,2009-03-27,2,2009,Monsters vs. Aliens (2009),Spring
+175,Star Trek Beyond,59253211,158848340,37.3%,3928,15084,2016-07-22,3,2016,Star Trek Beyond (2016),Summer
+176,Jumanji: The Next Level,59251543,316831246,18.7%,4227,14017,2019-12-13,1,2019,Jumanji: The Next Level (2019),Winter
+177,Jason Bourne,59215365,162434410,36.4%,4026,14708,2016-07-29,3,2016,Jason Bourne (2016),Summer
+178,Pearl Harbor,59078912,198542554,29.8%,3214,18381,2001-05-25,2,2001,Pearl Harbor (2001),Spring
+179,Fantastic 4: Rise of the Silver Surfer,58051684,131921738,44%,3959,14663,2007-06-15,3,2007,Fantastic 4: Rise of the Silver Surfer (2007),Summer
+180,Sonic the Hedgehog,58018348,146066470,39.7%,4167,13923,2020-02-14,1,2020,Sonic the Hedgehog (2020),Winter
+181,Hannibal,58003121,165092268,35.1%,3230,17957,2001-02-09,1,2001,Hannibal (2001),Winter
+182,Mission: Impossible II,57845297,215409889,26.8%,3653,15835,2000-05-24,2,2000,Mission: Impossible II (2000),Spring
+183,Ant-Man,57225526,180202163,31.8%,3856,14840,2015-07-17,3,2015,Ant-Man (2015),Summer
+184,22 Jump Street,57071445,191719337,29.8%,3306,17262,2014-06-13,3,2014,22 Jump Street (2014),Summer
+185,Sex and the City,57038404,152647258,37.4%,3285,17363,2008-05-30,2,2008,Sex and the City (2008),Spring
+186,John Wick: Chapter 3 - Parabellum,56818067,171015687,33.2%,3850,14757,2019-05-17,2,2019,John Wick: Chapter 3 - Parabellum (2019),Spring
+187,Moana,56631401,248757044,22.8%,3875,14614,2016-11-23,4,2016,Moana (2016),Fall
+188,Despicable Me,56397125,251513985,22.4%,3476,16224,2010-07-09,3,2010,Despicable Me (2010),Summer
+189,War for the Planet of the Apes,56262929,146880162,38.3%,4022,13988,2017-07-14,3,2017,War for the Planet of the Apes (2017),Summer
+190,Valentine's Day,56260707,110485654,50.9%,3665,15350,2010-02-12,1,2010,Valentine's Day (2010),Winter
+191,Ralph Breaks the Internet,56237634,201091711,28%,4017,13999,2018-11-21,4,2018,Ralph Breaks the Internet (2018),Fall
+192,Snow White and the Huntsman,56217700,155332381,36.2%,3773,14900,2012-06-01,3,2012,Snow White and the Huntsman (2012),Summer
+193,Big Hero 6,56215889,222527828,25.3%,3761,14947,2014-11-07,4,2014,Big Hero 6 (2014),Fall
+194,Charlie and the Chocolate Factory,56178450,206459076,27.2%,3770,14901,2005-07-15,3,2005,Charlie and the Chocolate Factory (2005),Summer
+195,Fantastic Four,56061504,154696080,36.2%,3602,15563,2005-07-08,3,2005,Fantastic Four (2005),Summer
+196,Gravity,55785112,274092705,20.4%,3575,15604,2013-10-04,4,2013,Gravity (2013),Fall
+197,The Karate Kid,55665805,176591618,31.5%,3663,15196,2010-06-11,3,2010,The Karate Kid (2010),Summer
+198,Mission: Impossible - Rogue Nation,55520089,195042377,28.5%,3956,14034,2015-07-31,3,2015,Mission: Impossible - Rogue Nation (2015),Summer
+199,The Incredible Hulk,55414050,134806913,41.1%,3505,15810,2008-06-13,3,2008,The Incredible Hulk (2008),Summer
+200,The SpongeBob Movie: Sponge Out of Water,55365012,162994032,34%,3641,15205,2015-02-06,1,2015,The SpongeBob Movie: Sponge Out of Water (2015),Winter
+201,Watchmen,55214334,107509799,51.4%,3611,15290,2009-03-06,2,2009,Watchmen (2009),Spring
+202,X-Men: First Class,55101604,146408305,37.6%,3641,15133,2011-06-03,3,2011,X-Men: First Class (2011),Summer
+203,How the Grinch Stole Christmas,55082330,260044825,21.2%,3127,17615,2000-11-17,4,2000,How the Grinch Stole Christmas (2000),Fall
+204,The Chronicles of Narnia: Prince Caspian,55034805,141621490,38.9%,3929,14007,2008-05-16,2,2008,The Chronicles of Narnia: Prince Caspian (2008),Spring
+205,How to Train Your Dragon: The Hidden World,55022245,160799505,34.2%,4259,12919,2019-02-22,1,2019,How to Train Your Dragon: The Hidden World (2019),Winter
+206,Rise of the Planet of the Apes,54806191,176760185,31%,3648,15023,2011-08-05,3,2011,Rise of the Planet of the Apes (2011),Summer
+207,The Hobbit: The Battle of the Five Armies,54724334,255119788,21.4%,3875,14122,2014-12-17,1,2014,The Hobbit: The Battle of the Five Armies (2014),Winter
+208,G.I. Joe: The Rise of Cobra,54713046,150201498,36.4%,4007,13654,2009-08-07,3,2009,G.I. Joe: The Rise of Cobra (2009),Summer
+209,Divergent,54607747,150947895,36.2%,3936,13873,2014-03-21,2,2014,Divergent (2014),Spring
+210,Men in Black 3,54592779,179020854,30.5%,4248,12851,2012-05-25,2,2012,Men in Black 3 (2012),Spring
+211,San Andreas,54588173,155190832,35.2%,3777,14452,2015-05-29,2,2015,San Andreas (2015),Spring
+212,X-Men,54471475,157299718,34.6%,3025,18007,2000-07-14,3,2000,X-Men (2000),Summer
+213,Ted,54415205,218815487,24.9%,3239,16800,2012-06-29,3,2012,Ted (2012),Summer
+214,Pokémon Detective Pikachu,54365242,144105346,37.7%,4202,12937,2019-05-10,2,2019,Pokémon Detective Pikachu (2019),Spring
+215,The Martian,54308575,228433663,23.8%,3831,14176,2015-10-02,4,2015,The Martian (2015),Fall
+216,Night at the Museum: Battle of the Smithsonian,54173286,177243721,30.6%,4096,13225,2009-05-22,2,2009,Night at the Museum: Battle of the Smithsonian (2009),Spring
+217,Scooby-Doo,54155312,153294164,35.3%,3447,15710,2002-06-14,3,2002,Scooby-Doo (2002),Summer
+218,The Nun,53807379,117450119,45.8%,3876,13882,2018-09-07,4,2018,The Nun (2018),Fall
+219,Cars 3,53688680,152901115,35.1%,4256,12614,2017-06-16,3,2017,Cars 3 (2017),Summer
+220,Shazam!,53505326,140371656,38.1%,4217,12688,2019-04-05,2,2019,Shazam! (2019),Spring
+221,Green Lantern,53174303,116601172,45.6%,3816,13934,2011-06-17,3,2011,Green Lantern (2011),Summer
+222,The Wolverine,53113752,132556852,40.1%,3924,13535,2013-07-26,3,2013,The Wolverine (2013),Summer
+223,The Lego Batman Movie,53003468,175750384,30.2%,4088,12965,2017-02-10,1,2017,The Lego Batman Movie (2017),Winter
+224,Batman Forever,52784433,184031112,28.7%,2842,18572,1995-06-16,3,1995,Batman Forever (1995),Summer
+225,Paranormal Activity 3,52568183,104028807,50.5%,3321,15829,2011-10-21,4,2011,Paranormal Activity 3 (2011),Fall
+226,Superman Returns,52535096,200081192,26.3%,4065,12923,2006-06-28,3,2006,Superman Returns (2006),Summer
+227,The Bourne Supremacy,52521865,176241941,29.8%,3165,16594,2004-07-23,3,2004,The Bourne Supremacy (2004),Summer
+228,The Divergent Series: Insurgent,52263680,130179072,40.2%,3875,13487,2015-03-20,2,2015,The Divergent Series: Insurgent (2015),Spring
+229,"I, Robot",52179887,144801023,36%,3420,15257,2004-07-16,3,2004,"I, Robot (2004)",Summer
+230,Men in Black II,52148751,190418803,27.4%,3557,14660,2002-07-03,3,2002,Men in Black II (2002),Summer
+231,Home,52107731,177397510,29.4%,3708,14052,2015-03-27,2,2015,Home (2015),Spring
+232,Van Helsing,51748040,120177084,43.1%,3575,14474,2004-05-07,2,2004,Van Helsing (2004),Spring
+233,8 Mile,51240555,116750901,43.9%,2470,20745,2002-11-08,4,2002,8 Mile (2002),Fall
+234,Men in Black,51068455,250690539,20.4%,3020,16910,1997-07-02,3,1997,Men in Black (1997),Summer
+235,Bohemian Rhapsody,51061119,216428042,23.6%,4000,12765,2018-11-02,4,2018,Bohemian Rhapsody (2018),Fall
+236,Prometheus,51050101,126477084,40.4%,3396,15032,2012-06-08,3,2012,Prometheus (2012),Summer
+237,Wanted,50927085,134508551,37.9%,3175,16040,2008-06-27,3,2008,Wanted (2008),Summer
+238,Coco,50802605,209726015,24.2%,3987,12742,2017-11-22,4,2017,Coco (2017),Fall
+239,Jurassic Park III,50771645,181171875,28%,3434,14784,2001-07-18,3,2001,Jurassic Park III (2001),Summer
+240,The Village,50746142,114197520,44.4%,3730,13604,2004-07-30,3,2004,The Village (2004),Summer
+241,Dunkirk,50513488,188045546,26.9%,3720,13578,2017-07-21,3,2017,Dunkirk (2017),Summer
+242,2 Fast 2 Furious,50472480,127154901,39.7%,3408,14810,2003-06-06,3,2003,2 Fast 2 Furious (2003),Summer
+243,Jackass 3D,50353641,117229692,43%,3081,16343,2010-10-15,4,2010,Jackass 3D (2010),Fall
+244,Mr. & Mrs. Smith,50342878,186336279,27%,3424,14702,2005-06-10,3,2005,Mr. & Mrs. Smith (2005),Summer
+245,Rush Hour 3,50237000,140125968,35.8%,3778,13297,2007-08-10,3,2007,Rush Hour 3 (2007),Summer
+246,Independence Day,50228264,306169268,16.4%,2882,17428,1996-07-03,3,1996,Independence Day (1996),Summer
+247,A Quiet Place,50203562,188024361,26.7%,3508,14311,2018-04-06,2,2018,A Quiet Place (2018),Spring
+248,The Boss Baby,50198902,175003033,28.7%,3773,13304,2017-03-31,2,2017,The Boss Baby (2017),Spring
+249,King Kong,50130145,218080025,23%,3568,14049,2005-12-14,1,2005,King Kong (2005),Winter
+250,The Great Gatsby,50085185,144840419,34.6%,3535,14168,2013-05-10,2,2013,The Great Gatsby (2013),Spring
+251,Scary Movie 3,49700000,110003217,45.2%,3505,14179,2003-10-24,4,2003,Scary Movie 3 (2003),Fall
+252,Taken 2,49514769,139854287,35.4%,3661,13524,2012-10-05,4,2012,Taken 2 (2012),Fall
+253,How to Train Your Dragon 2,49451322,177002924,27.9%,4253,11627,2014-06-13,3,2014,How to Train Your Dragon 2 (2014),Summer
+254,Wreck-It Ralph,49038712,189422889,25.9%,3752,13070,2012-11-02,4,2012,Wreck-It Ralph (2012),Fall
+255,Neighbors,49033915,150157400,32.7%,3279,14953,2014-05-09,2,2014,Neighbors (2014),Spring
+256,Alvin and the Chipmunks: The Squeakquel,48875415,219614612,22.3%,3700,13209,2009-12-23,1,2009,Alvin and the Chipmunks: The Squeakquel (2009),Winter
+257,Tangled,48767052,200821936,24.3%,3603,13535,2010-11-24,4,2010,Tangled (2010),Fall
+258,Batman Begins,48745440,205343774,23.7%,3858,12634,2005-06-15,3,2005,Batman Begins (2005),Summer
+259,The Matrix Revolutions,48475154,139313948,34.8%,3502,13842,2003-11-05,4,2003,The Matrix Revolutions (2003),Fall
+260,Hotel Transylvania 2,48464322,169700110,28.6%,3754,12910,2015-09-25,4,2015,Hotel Transylvania 2 (2015),Fall
+261,The Fault in Our Stars,48002523,124872350,38.4%,3173,15128,2014-06-06,3,2014,The Fault in Our Stars (2014),Summer
+262,Godzilla: King of the Monsters,47776293,110500138,43.2%,4108,11630,2019-05-31,2,2019,Godzilla: King of the Monsters (2019),Spring
+263,Mission: Impossible III,47743273,134029801,35.6%,4054,11776,2006-05-05,2,2006,Mission: Impossible III (2006),Spring
+264,Lara Croft: Tomb Raider,47735743,131168070,36.4%,3308,14430,2001-06-15,3,2001,Lara Croft: Tomb Raider (2001),Summer
+265,Kung Fu Panda 2,47656302,165249063,28.8%,3925,12141,2011-05-26,2,2011,Kung Fu Panda 2 (2011),Spring
+266,The Longest Yard,47606480,158119460,30.1%,3634,13100,2005-05-27,2,2005,The Longest Yard (2005),Spring
+267,Shark Tale,47604606,160861908,29.6%,4016,11853,2004-10-01,4,2004,Shark Tale (2004),Fall
+268,Interstellar,47510360,188020017,25.3%,3561,13341,2014-11-05,4,2014,Interstellar (2014),Fall
+269,Madagascar,47224594,193595521,24.4%,4131,11431,2005-05-27,2,2005,Madagascar (2005),Spring
+270,The Lord of the Rings: The Fellowship of the Ring,47211490,313364114,15.1%,3359,14055,2001-12-19,1,2001,The Lord of the Rings: The Fellowship of the Ring (2001),Winter
+271,Die Another Day,47072040,160942139,29.2%,3314,14203,2002-11-22,4,2002,Die Another Day (2002),Fall
+272,Talladega Nights: The Ballad of Ricky Bobby,47042215,148213377,31.7%,3803,12369,2006-08-04,3,2006,Talladega Nights: The Ballad of Ricky Bobby (2006),Summer
+273,Ratatouille,47027395,206445654,22.8%,3940,11935,2007-06-29,3,2007,Ratatouille (2007),Summer
+274,Jurassic Park,47026828,357067947,13.2%,2404,19561,1993-06-11,3,1993,Jurassic Park (1993),Summer
+275,Troy,46865412,133378256,35.1%,3411,13739,2004-05-14,2,2004,Troy (2004),Spring
+276,The Secret Life of Pets 2,46652680,158874395,29.4%,4561,10228,2019-06-07,3,2019,The Secret Life of Pets 2 (2019),Summer
+277,Pirates of the Caribbean: The Curse of the Black Pearl,46630690,305413918,15.3%,3269,14264,2003-07-09,3,2003,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Summer
+278,Ice Age: Continental Drift,46629259,161321843,28.9%,3881,12014,2012-07-13,3,2012,Ice Age: Continental Drift (2012),Summer
+279,Fifty Shades Darker,46607250,114581250,40.7%,3710,12562,2017-02-10,1,2017,Fifty Shades Darker (2017),Winter
+280,Trolls,46581142,153707064,30.3%,4060,11473,2016-11-04,4,2016,Trolls (2016),Fall
+281,Bad Boys II,46522560,138608444,33.6%,3186,14602,2003-07-18,3,2003,Bad Boys II (2003),Summer
+282,Ice Age,46312454,176387405,26.3%,3316,13966,2002-03-15,2,2002,Ice Age (2002),Spring
+283,Angels & Demons,46204168,133375846,34.6%,3527,13100,2009-05-15,2,2009,Angels & Demons (2009),Spring
+284,Meet the Fockers,46120980,279261160,16.5%,3518,13110,2004-12-22,1,2004,Meet the Fockers (2004),Winter
+285,Ghostbusters,46018755,128350574,35.8%,3963,11612,2016-07-15,3,2016,Ghostbusters (2016),Summer
+286,Megamind,46016833,148415853,31%,3944,11667,2010-11-05,4,2010,Megamind (2010),Fall
+287,Dumbo,45990748,114766307,40.1%,4259,10798,2019-03-29,2,2019,Dumbo (2019),Spring
+288,Batman Returns,45687711,162831698,28.1%,2644,17279,1992-06-19,3,1992,Batman Returns (1992),Summer
+289,Mission: Impossible,45436830,180981856,25.1%,3012,15085,1996-05-22,2,1996,Mission: Impossible (1996),Spring
+290,Mad Max: Fury Road,45428128,153636354,29.6%,3702,12271,2015-05-15,2,2015,Mad Max: Fury Road (2015),Spring
+291,The Meg,45402195,145443742,31.2%,4118,11025,2018-08-10,3,2018,The Meg (2018),Summer
+292,Ghost Rider,45388836,115802596,39.2%,3619,12541,2007-02-16,1,2007,Ghost Rider (2007),Winter
+293,American Pie 2,45117985,145103595,31.1%,3063,14729,2001-08-10,3,2001,American Pie 2 (2001),Summer
+294,300: Rise of an Empire,45038460,106580051,42.3%,3470,12979,2014-03-07,2,2014,300: Rise of an Empire (2014),Spring
+295,Horton Hears a Who!,45012998,154529439,29.1%,3954,11384,2008-03-14,2,2008,Horton Hears a Who! (2008),Spring
+296,The Hangover,44979319,277322503,16.2%,3269,13759,2009-06-05,3,2009,The Hangover (2009),Summer
+297,National Treasure: Book of Secrets,44783772,219964115,20.4%,3832,11686,2007-12-21,1,2007,National Treasure: Book of Secrets (2007),Winter
+298,Transformers: The Last Knight,44680073,130168683,34.3%,4069,10980,2017-06-21,3,2017,Transformers: The Last Knight (2017),Summer
+299,xXx,44506103,142109382,31.3%,3374,13190,2002-08-09,3,2002,xXx (2002),Summer
+300,Alvin and the Chipmunks,44307417,217326974,20.4%,3475,12750,2007-12-14,1,2007,Alvin and the Chipmunks (2007),Winter
+301,The Peanuts Movie,44213073,130178411,34%,3897,11345,2015-11-06,4,2015,The Peanuts Movie (2015),Fall
+302,Hotel Transylvania 3: Summer Vacation,44076225,167510016,26.3%,4267,10329,2018-07-13,3,2018,Hotel Transylvania 3: Summer Vacation (2018),Summer
+303,Godzilla,44047541,136314294,32.3%,3310,13307,1998-05-20,2,1998,Godzilla (1998),Spring
+304,Terminator 3: Rise of the Machines,44041440,150371112,29.3%,3504,12568,2003-07-02,3,2003,Terminator 3: Rise of the Machines (2003),Summer
+305,TRON: Legacy,44026211,172062763,25.6%,3451,12757,2010-12-17,1,2010,TRON: Legacy (2010),Winter
+306,Lucy,43899340,126663600,34.7%,3173,13835,2014-07-25,3,2014,Lucy (2014),Summer
+307,How to Train Your Dragon,43732319,217581231,20.1%,4055,10784,2010-03-26,2,2010,How to Train Your Dragon (2010),Spring
+308,Noah,43720472,101200044,43.2%,3567,12256,2014-03-28,2,2014,Noah (2014),Spring
+309,The Croods,43639736,187168425,23.3%,4046,10785,2013-03-22,2,2013,The Croods (2013),Spring
+310,American Gangster,43565135,130164645,33.5%,3054,14264,2007-11-02,4,2007,American Gangster (2007),Fall
+311,The Mummy,43369635,155385488,27.9%,3210,13510,1999-05-07,2,1999,The Mummy (1999),Spring
+312,Hitch,43142214,179495555,24%,3575,12067,2005-02-11,1,2005,Hitch (2005),Winter
+313,A Star Is Born,42908051,215288866,19.9%,3686,11640,2018-10-05,4,2018,A Star Is Born (2018),Fall
+314,Batman & Robin,42872605,107325195,40%,2934,14612,1997-06-20,3,1997,Batman & Robin (1997),Summer
+315,Terminator Salvation,42558390,125322469,34%,3530,12056,2009-05-21,2,2009,Terminator Salvation (2009),Spring
+316,Hotel Transylvania,42522194,148313048,28.7%,3349,12696,2012-09-28,4,2012,Hotel Transylvania (2012),Fall
+317,Nutty Professor II: The Klumps,42518830,123309890,34.5%,3242,13115,2000-07-28,3,2000,Nutty Professor II: The Klumps (2000),Summer
+318,Shrek,42347760,267665011,15.8%,3587,11805,2001-05-16,2,2001,Shrek (2001),Spring
+319,Scary Movie,42346669,157019771,27%,2912,14542,2000-07-07,3,2000,Scary Movie (2000),Summer
+320,Anger Management,42220847,135645823,31.1%,3551,11889,2003-04-11,2,2003,Anger Management (2003),Spring
+321,High School Musical 3,42030184,90559416,46.4%,3623,11600,2008-10-24,4,2008,High School Musical 3 (2008),Fall
+322,The Conjuring,41855326,137400141,30.5%,2903,14417,2013-07-19,3,2013,The Conjuring (2013),Summer
+323,Ready Player One,41764050,137690172,30.3%,4234,9863,2018-03-29,2,2018,Ready Player One (2018),Spring
+324,Ice Age: Dawn of the Dinosaurs,41690382,196573705,21.2%,4099,10170,2009-07-01,3,2009,Ice Age: Dawn of the Dinosaurs (2009),Summer
+325,The Hangover Part III,41671198,112200072,37.1%,3555,11721,2013-05-23,2,2013,The Hangover Part III (2013),Spring
+326,Ocean's 8,41607378,140218711,29.7%,4145,10037,2018-06-08,3,2018,Ocean's 8 (2018),Summer
+327,Big Daddy,41536370,163479795,25.4%,3027,13721,1999-06-25,3,1999,Big Daddy (1999),Summer
+328,Happy Feet,41533432,198000317,21%,3804,10918,2006-11-17,4,2006,Happy Feet (2006),Fall
+329,Ride Along,41516170,134938200,30.8%,2663,15590,2014-01-17,1,2014,Ride Along (2014),Winter
+330,Grown Ups 2,41508572,133668525,31%,3491,11890,2013-07-12,3,2013,Grown Ups 2 (2013),Summer
+331,The Perfect Storm,41325042,182618434,22.6%,3407,12129,2000-06-30,3,2000,The Perfect Storm (2000),Summer
+332,Kung Fu Panda 3,41282042,143528619,28.8%,3955,10437,2016-01-29,1,2016,Kung Fu Panda 3 (2016),Winter
+333,The Vow,41202458,125014030,33%,2958,13929,2012-02-10,1,2012,The Vow (2012),Winter
+334,Deep Impact,41152375,140464664,29.3%,3156,13039,1998-05-08,2,1998,Deep Impact (1998),Spring
+335,Once Upon a Time... In Hollywood,41082018,142502728,28.8%,3659,11227,2019-07-26,3,2019,Once Upon a Time... In Hollywood (2019),Summer
+336,Shutter Island,41062440,128012934,32.1%,2991,13728,2010-02-19,1,2010,Shutter Island (2010),Winter
+337,Twister,41059405,241721524,17%,2414,17008,1996-05-10,2,1996,Twister (1996),Spring
+338,Independence Day: Resurgence,41039944,103144286,39.8%,4130,9937,2016-06-24,3,2016,Independence Day: Resurgence (2016),Summer
+339,Madea Goes to Jail,41030947,90508336,45.3%,2032,20192,2009-02-20,1,2009,Madea Goes to Jail (2009),Winter
+340,Casino Royale,40833156,167445960,24.4%,3434,11890,2006-11-17,4,2006,Casino Royale (2006),Fall
+341,Paranormal Activity 2,40678424,84752907,48%,3216,12648,2010-10-22,4,2010,Paranormal Activity 2 (2010),Fall
+342,Friday the 13th,40570365,65002019,62.4%,3105,13066,2009-02-13,1,2009,Friday the 13th (2009),Winter
+343,Grown Ups,40506562,162001186,25%,3534,11461,2010-06-25,3,2010,Grown Ups (2010),Summer
+344,G.I. Joe: Retaliation,40501814,122523060,33.1%,3719,10890,2013-03-28,2,2013,G.I. Joe: Retaliation (2013),Spring
+345,Batman,40489746,251188924,16.1%,2194,18454,1989-06-23,3,1989,Batman (1989),Summer
+346,The Mummy: Tomb of the Dragon Emperor,40457770,102491776,39.5%,3760,10760,2008-08-01,3,2008,The Mummy: Tomb of the Dragon Emperor (2008),Summer
+347,The Conjuring 2,40406314,102470008,39.4%,3343,12086,2016-06-10,3,2016,The Conjuring 2 (2016),Summer
+348,Glass,40328920,111048468,36.3%,3841,10499,2019-01-18,1,2019,Glass (2019),Winter
+349,The Last Airbender,40325019,131772187,30.6%,3169,12724,2010-07-01,3,2010,The Last Airbender (2010),Summer
+350,Daredevil,40310419,102543518,39.3%,3471,11613,2003-02-14,1,2003,Daredevil (2003),Winter
+351,Power Rangers,40300288,85364450,47.2%,3693,10912,2017-03-24,2,2017,Power Rangers (2017),Spring
+352,Insidious: Chapter 2,40272103,83586447,48.2%,3049,13208,2013-09-13,4,2013,Insidious: Chapter 2 (2013),Fall
+353,Scary Movie 4,40222875,90710620,44.3%,3602,11166,2006-04-14,2,2006,Scary Movie 4 (2006),Spring
+354,Safe House,40172720,126373434,31.8%,3119,12880,2012-02-10,1,2012,Safe House (2012),Winter
+355,Charlie's Angels,40128550,125305545,32%,3037,13213,2000-11-03,4,2000,Charlie's Angels (2000),Fall
+356,The Fast and the Furious,40089015,144533925,27.7%,2628,15254,2001-06-22,3,2001,The Fast and the Furious (2001),Summer
+357,Cloverfield,40058229,80048433,50%,3411,11743,2008-01-18,1,2008,Cloverfield (2008),Winter
+358,Chicken Little,40049778,135386665,29.6%,3654,10960,2005-11-04,4,2005,Chicken Little (2005),Fall
+359,Click,40011365,137355633,29.1%,3749,10672,2006-06-23,3,2006,Click (2006),Summer
+360,Split,40010975,138291365,28.9%,3038,13170,2017-01-20,1,2017,Split (2017),Winter
+361,50 First Dates,39852237,120908074,33%,3591,11097,2004-02-13,1,2004,50 First Dates (2004),Winter
+362,Wild Hogs,39699023,168273550,23.6%,3287,12077,2007-03-02,2,2007,Wild Hogs (2007),Spring
+363,Sherlock Holmes: A Game of Shadows,39637079,186848418,21.2%,3703,10704,2011-12-16,1,2011,Sherlock Holmes: A Game of Shadows (2011),Winter
+364,The Waterboy,39414071,161491646,24.4%,2664,14795,1998-11-06,4,1998,The Waterboy (1998),Fall
+365,Rio 2,39327869,131538435,29.9%,3948,9961,2014-04-11,2,2014,Rio 2 (2014),Spring
+366,Rio,39225962,143619809,27.3%,3826,10252,2011-04-15,2,2011,Rio (2011),Spring
+367,Taken 3,39201657,89256424,43.9%,3594,10907,2015-01-09,1,2015,Taken 3 (2015),Winter
+368,The Break-Up,39172785,118703275,33%,3070,12759,2006-06-02,3,2006,The Break-Up (2006),Summer
+369,The Good Dinosaur,39155217,123087120,31.8%,3749,10444,2015-11-25,4,2015,The Good Dinosaur (2015),Fall
+370,Ocean's Twelve,39153380,125544280,31.2%,3290,11900,2004-12-10,1,2004,Ocean's Twelve (2004),Winter
+371,The Grudge,39128715,110359362,35.5%,3245,12058,2004-10-22,4,2004,The Grudge (2004),Fall
+372,Magic Mike,39127170,113721571,34.4%,2930,13353,2012-06-29,3,2012,Magic Mike (2012),Summer
+373,Onward,39119861,61555145,63.6%,4310,9076,2020-03-06,2,2020,Onward (2020),Spring
+374,The Heat,39115043,159582188,24.5%,3181,12296,2013-06-28,3,2013,The Heat (2013),Summer
+375,Kingsman: The Golden Circle,39023010,100229647,38.9%,4003,9748,2017-09-22,4,2017,Kingsman: The Golden Circle (2017),Fall
+376,Dinosaur,38854851,137748063,28.2%,3257,11929,2000-05-19,2,2000,Dinosaur (2000),Spring
+377,Daddy's Home,38740203,150357137,25.8%,3271,11843,2015-12-25,1,2015,Daddy's Home (2015),Winter
+378,Get Smart,38683480,130319208,29.7%,3911,9890,2008-06-20,3,2008,Get Smart (2008),Summer
+379,Fifty Shades Freed,38560195,100407760,38.4%,3768,10233,2018-02-09,1,2018,Fifty Shades Freed (2018),Winter
+380,You Don't Mess with the Zohan,38531374,100018837,38.5%,3462,11129,2008-06-06,3,2008,You Don't Mess with the Zohan (2008),Summer
+381,The Legend of Tarzan,38527856,126643061,30.4%,3561,10819,2016-07-01,3,2016,The Legend of Tarzan (2016),Summer
+382,Over the Hedge,38457003,155019340,24.8%,4059,9474,2006-05-19,2,2006,Over the Hedge (2006),Spring
+383,The Cat in the Hat,38329160,101149285,37.9%,3464,11065,2003-11-21,4,2003,The Cat in the Hat (2003),Fall
+384,Alien vs. Predator,38291056,80282231,47.7%,3395,11278,2004-08-13,3,2004,Alien vs. Predator (2004),Summer
+385,The Angry Birds Movie,38155177,107509366,35.5%,3932,9703,2016-05-20,2,2016,The Angry Birds Movie (2016),Spring
+386,The Bourne Legacy,38142825,113203870,33.7%,3745,10185,2012-08-10,3,2012,The Bourne Legacy (2012),Summer
+387,Ocean's Eleven,38107822,183417150,20.8%,3075,12392,2001-12-07,1,2001,Ocean's Eleven (2001),Winter
+388,Rango,38079323,123477607,30.8%,3917,9721,2011-03-04,2,2011,Rango (2011),Spring
+389,Inglourious Basterds,38054676,120540719,31.6%,3165,12023,2009-08-21,3,2009,Inglourious Basterds (2009),Summer
+390,Bee Movie,38021044,126631277,30%,3928,9679,2007-11-02,4,2007,Bee Movie (2007),Fall
+391,Ace Ventura: When Nature Calls,37804076,108385533,34.9%,2652,14254,1995-11-10,4,1995,Ace Ventura: When Nature Calls (1995),Fall
+392,Charlie's Angels: Full Throttle,37634221,100830111,37.3%,3459,10880,2003-06-27,3,2003,Charlie's Angels: Full Throttle (2003),Summer
+393,Hop,37543710,108085305,34.7%,3579,10490,2011-04-01,2,2011,Hop (2011),Spring
+394,Gone Girl,37513109,167767189,22.4%,3014,12446,2014-10-03,4,2014,Gone Girl (2014),Fall
+395,District 9,37354308,115646235,32.3%,3049,12251,2009-08-14,3,2009,District 9 (2009),Summer
+396,Pacific Rim,37285325,101802906,36.6%,3275,11384,2013-07-12,3,2013,Pacific Rim (2013),Summer
+397,Mr. Deeds,37162787,126293452,29.4%,3231,11501,2002-06-28,3,2002,Mr. Deeds (2002),Summer
+398,Annabelle,37134255,84273813,44.1%,3185,11659,2014-10-03,4,2014,Annabelle (2014),Fall
+399,Air Force One,37132505,172956409,21.5%,2919,12720,1997-07-25,3,1997,Air Force One (1997),Summer
+400,S.W.A.T.,37062535,116934650,31.7%,3202,11574,2003-08-08,3,2003,S.W.A.T. (2003),Summer
+401,Oblivion,37054485,89107235,41.6%,3783,9795,2013-04-19,2,2013,Oblivion (2013),Spring
+402,Maleficent: Mistress of Evil,36948713,113929605,32.4%,3790,9749,2019-10-18,4,2019,Maleficent: Mistress of Evil (2019),Fall
+403,Red Dragon,36540945,93149898,39.2%,3357,10885,2002-10-04,4,2002,Red Dragon (2002),Fall
+404,Cowboys & Aliens,36431290,100240551,36.3%,3750,9715,2011-07-29,3,2011,Cowboys & Aliens (2011),Summer
+405,Freddy vs. Jason,36400000,82622655,44.1%,3014,12076,2003-08-15,3,2003,Freddy vs. Jason (2003),Summer
+406,Interview with the Vampire: The Vampire Chronicles,36389705,105264608,34.6%,2604,13974,1994-11-11,4,1994,Interview with the Vampire: The Vampire Chronicles (1994),Fall
+407,Marley & Me,36357586,143153751,25.4%,3480,10447,2008-12-25,1,2008,Marley & Me (2008),Winter
+408,21 Jump Street,36302612,138447667,26.2%,3121,11631,2012-03-16,2,2012,21 Jump Street (2012),Spring
+409,Kingsman: The Secret Service,36206331,128261724,28.2%,3204,11300,2015-02-13,1,2015,Kingsman: The Secret Service (2015),Winter
+410,Jumanji: Welcome to the Jungle,36169328,404515480,8.9%,3765,9606,2017-12-20,1,2017,Jumanji: Welcome to the Jungle (2017),Winter
+411,Alien: Covenant,36160621,74262031,48.7%,3761,9614,2017-05-19,2,2017,Alien: Covenant (2017),Spring
+412,Ocean's Thirteen,36133403,117154724,30.8%,3565,10135,2007-06-08,3,2007,Ocean's Thirteen (2007),Summer
+413,Dumb and Dumber To,36111775,86208010,41.9%,3154,11449,2014-11-14,4,2014,Dumb and Dumber To (2014),Fall
+414,Armageddon,36089972,201578182,17.9%,3127,11541,1998-07-01,3,1998,Armageddon (1998),Summer
+415,The Scorpion King,36075875,91047077,39.6%,3444,10474,2002-04-19,2,2002,The Scorpion King (2002),Spring
+416,Robin Hood,36063385,105269730,34.3%,3503,10295,2010-05-14,2,2010,Robin Hood (2010),Spring
+417,Robots,36045301,128200012,28.1%,3776,9545,2005-03-11,2,2005,Robots (2005),Spring
+418,The Equalizer 2,36011640,102084362,35.3%,3388,10629,2018-07-20,3,2018,The Equalizer 2 (2018),Summer
+419,Salt,36011243,118311368,30.4%,3612,9969,2010-07-23,3,2010,Salt (2010),Summer
+420,Star Wars: Episode IV - A New Hope,35906661,138257865,26%,2104,17065,1997-01-31,1,1997,Star Wars: Episode IV - A New Hope (1997),Winter
+421,"10,000 BC",35867488,94784201,37.8%,3410,10518,2008-03-07,2,2008,"10,000 BC (2008)",Spring
+422,Rampage,35753093,101028233,35.4%,4101,8718,2018-04-13,2,2018,Rampage (2018),Spring
+423,Minority Report,35677125,132072926,27%,3001,11888,2002-06-21,3,2002,Minority Report (2002),Summer
+424,Sweet Home Alabama,35648740,127223418,28%,3293,10825,2002-09-27,4,2002,Sweet Home Alabama (2002),Fall
+425,The Smurfs,35611637,142614158,25%,3395,10489,2011-07-29,3,2011,The Smurfs (2011),Summer
+426,Creed II,35574710,115715889,30.7%,3441,10338,2018-11-21,4,2018,Creed II (2018),Fall
+427,Battle Los Angeles,35573187,83552429,42.6%,3417,10410,2011-03-11,2,2011,Battle Los Angeles (2011),Spring
+428,The Other Guys,35543162,119219978,29.8%,3651,9735,2010-08-06,3,2010,The Other Guys (2010),Summer
+429,Central Intelligence,35535250,127440871,27.9%,3508,10129,2016-06-17,3,2016,Central Intelligence (2016),Summer
+430,The World Is Not Enough,35519007,126943684,28%,3163,11229,1999-11-19,4,1999,The World Is Not Enough (1999),Fall
+431,Super 8,35451168,127004179,27.9%,3379,10491,2011-06-10,3,2011,Super 8 (2011),Summer
+432,Spider-Man: Into the Spider-Verse,35363376,190241310,18.6%,3813,9274,2018-12-14,1,2018,Spider-Man: Into the Spider-Verse (2018),Winter
+433,Teenage Mutant Ninja Turtles: Out of the Shadows,35316382,82051601,43%,4071,8675,2016-06-03,3,2016,Teenage Mutant Ninja Turtles: Out of the Shadows (2016),Summer
+434,Lilo & Stitch,35260212,145794338,24.2%,3191,11049,2002-06-21,3,2002,Lilo & Stitch (2002),Summer
+435,Sing,35258145,270395425,13%,4022,8766,2016-12-21,1,2016,Sing (2016),Winter
+436,Ride Along 2,35243095,91221830,38.6%,3175,11100,2016-01-15,1,2016,Ride Along 2 (2016),Winter
+437,National Treasure,35142554,173008894,20.3%,3017,11648,2004-11-19,4,2004,National Treasure (2004),Fall
+438,The Ring Two,35065237,76231249,46%,3332,10523,2005-03-18,2,2005,The Ring Two (2005),Spring
+439,Runaway Bride,35055556,152257509,23%,3158,11100,1999-07-30,3,1999,Runaway Bride (1999),Summer
+440,Sully,35028301,125070033,28%,3525,9937,2016-09-09,4,2016,Sully (2016),Fall
+441,Annabelle: Creation,35006404,102092201,34.3%,3502,9996,2017-08-11,3,2017,Annabelle: Creation (2017),Summer
+442,Mamma Mia! Here We Go Again,34952180,120634935,29%,3317,10537,2018-07-20,3,2018,Mamma Mia! Here We Go Again (2018),Summer
+443,The Expendables,34825135,103068524,33.8%,3270,10649,2010-08-13,3,2010,The Expendables (2010),Summer
+444,Gladiator,34819017,187705427,18.6%,2938,11851,2000-05-05,2,2000,Gladiator (2000),Spring
+445,Scream 3,34713342,89143175,38.9%,3467,10012,2000-02-04,1,2000,Scream 3 (2000),Winter
+446,The Magnificent Seven,34703397,93432655,37.1%,3674,9445,2016-09-23,4,2016,The Magnificent Seven (2016),Fall
+447,Identity Thief,34551025,134506920,25.7%,3141,11000,2013-02-08,1,2013,Identity Thief (2013),Winter
+448,Hellboy II: The Golden Army,34539115,75986503,45.4%,3204,10779,2008-07-11,3,2008,Hellboy II: The Golden Army (2008),Summer
+449,Enchanted,34440317,127807262,27%,3730,9233,2007-11-21,4,2007,Enchanted (2007),Fall
+450,Couples Retreat,34286740,109204945,31.4%,3000,11428,2009-10-09,4,2009,Couples Retreat (2009),Fall
+451,Sausage Party,34263534,97685686,35.1%,3103,11042,2016-08-12,3,2016,Sausage Party (2016),Summer
+452,I Now Pronounce You Chuck & Larry,34233750,120059556,28.5%,3495,9795,2007-07-20,3,2007,I Now Pronounce You Chuck & Larry (2007),Summer
+453,Tarzan,34221968,171091819,20%,3005,11388,1999-06-16,3,1999,Tarzan (1999),Summer
+454,Ransom,34216088,136492681,25.1%,2676,12786,1996-11-08,4,1996,Ransom (1996),Fall
+455,Norbit,34195434,95673607,35.7%,3136,10904,2007-02-09,1,2007,Norbit (2007),Winter
+456,The Equalizer,34137828,101530738,33.6%,3236,10549,2014-09-26,4,2014,The Equalizer (2014),Fall
+457,The Blind Side,34119372,255959475,13.3%,3110,10970,2009-11-20,4,2009,The Blind Side (2009),Fall
+458,The LEGO Movie 2: The Second Part,34115335,105806508,32.2%,4303,7928,2019-02-08,1,2019,The LEGO Movie 2: The Second Part (2019),Winter
+459,Puss in Boots,34077439,149260504,22.8%,3952,8622,2011-10-28,4,2011,Puss in Boots (2011),Fall
+460,The Purge,34058360,64473115,52.8%,2536,13429,2013-06-07,3,2013,The Purge (2013),Summer
+461,Lethal Weapon 4,34048124,130444603,26.1%,3117,10923,1998-07-10,3,1998,Lethal Weapon 4 (1998),Summer
+462,Cloudy With a Chance of Meatballs 2,34017930,119793567,28.4%,4001,8502,2013-09-27,4,2013,Cloudy With a Chance of Meatballs 2 (2013),Fall
+463,Get Hard,33803253,90411453,37.4%,3175,10646,2015-03-27,2,2015,Get Hard (2015),Spring
+464,The Devil Inside,33732515,53261944,63.3%,2285,14762,2012-01-06,1,2012,The Devil Inside (2012),Winter
+465,Think Like a Man,33636303,91547205,36.7%,2015,16692,2012-04-20,2,2012,Think Like a Man (2012),Spring
+466,The Proposal,33627598,163958031,20.5%,3056,11003,2009-06-19,3,2009,The Proposal (2009),Summer
+467,What Women Want,33614543,182811707,18.4%,3012,11160,2000-12-15,1,2000,What Women Want (2000),Winter
+468,Saw III,33610391,80238724,41.9%,3167,10612,2006-10-27,4,2006,Saw III (2006),Fall
+469,Epic,33531068,107518682,31.2%,3882,8637,2013-05-24,2,2013,Epic (2013),Spring
+470,The Green Hornet,33526876,98780042,33.9%,3584,9354,2011-01-14,1,2011,The Green Hornet (2011),Winter
+471,Ted 2,33507870,81476385,41.1%,3442,9735,2015-06-26,3,2015,Ted 2 (2015),Summer
+472,101 Dalmatians,33504025,136189294,24.6%,2794,11991,1996-11-27,4,1996,101 Dalmatians (1996),Fall
+473,Wrath of the Titans,33457188,83670083,40%,3545,9437,2012-03-30,2,2012,Wrath of the Titans (2012),Spring
+474,The Haunting,33435140,91411151,36.6%,2808,11907,1999-07-23,3,1999,The Haunting (1999),Summer
+475,Get Out,33377060,176040665,19%,2781,12001,2017-02-24,1,2017,Get Out (2017),Winter
+476,Live Free or Die Hard,33369559,134529403,24.8%,3408,9791,2007-06-27,3,2007,Live Free or Die Hard (2007),Summer
+477,American Wedding,33369440,104565114,31.9%,3172,10520,2003-08-01,3,2003,American Wedding (2003),Summer
+478,Lethal Weapon 3,33243086,144731527,23%,2510,13244,1992-05-15,2,1992,Lethal Weapon 3 (1992),Spring
+479,Hustlers,33181361,104963598,31.6%,3250,10209,2019-09-13,4,2019,Hustlers (2019),Fall
+480,A Wrinkle in Time,33123609,100478608,33%,3980,8322,2018-03-09,2,2018,A Wrinkle in Time (2018),Spring
+481,Superbad,33052411,121463226,27.2%,2948,11211,2007-08-17,3,2007,Superbad (2007),Summer
+482,Tomorrowland,33028165,93436322,35.4%,3972,8315,2015-05-22,2,2015,Tomorrowland (2015),Spring
+483,Blades of Glory,33014202,118594548,27.8%,3372,9790,2007-03-30,2,2007,Blades of Glory (2007),Spring
+484,Harley Quinn: Birds of Prey,33010017,84158461,39.2%,4236,7792,2020-02-07,1,2020,Harley Quinn: Birds of Prey (2020),Winter
+485,Rush Hour,33001803,141186864,23.4%,2638,12510,1998-09-18,4,1998,Rush Hour (1998),Fall
+486,Scream 2,32926342,101363301,32.5%,2663,12364,1997-12-12,1,1997,Scream 2 (1997),Winter
+487,A Nightmare on Elm Street,32902299,63075011,52.2%,3332,9874,2010-04-30,2,2010,A Nightmare on Elm Street (2010),Spring
+488,X-Men: Dark Phoenix,32828348,65845974,49.9%,3721,8822,2019-06-07,3,2019,X-Men: Dark Phoenix (2019),Summer
+489,The Book of Eli,32789494,94835059,34.6%,3111,10539,2010-01-15,1,2010,The Book of Eli (2010),Winter
+490,Blade Runner 2049,32753122,92054159,35.6%,4058,8071,2017-10-06,4,2017,Blade Runner 2049 (2017),Fall
+491,Where the Wild Things Are,32695407,77233467,42.3%,3735,8753,2009-10-16,4,2009,Where the Wild Things Are (2009),Fall
+492,Due Date,32689406,100539043,32.5%,3355,9743,2010-11-05,4,2010,Due Date (2010),Fall
+493,Blade II,32528016,82348319,39.5%,2707,12016,2002-03-22,2,2002,Blade II (2002),Spring
+494,The Maze Runner,32512804,102427862,31.7%,3604,9021,2014-09-19,4,2014,The Maze Runner (2014),Fall
+495,Spy Kids 3-D: Game Over,32500000,111761982,29.1%,3344,9718,2003-07-25,3,2003,Spy Kids 3-D: Game Over (2003),Summer
+496,Hannah Montana: The Movie,32324487,79576189,40.6%,3118,10367,2009-04-10,2,2009,Hannah Montana: The Movie (2009),Spring
+497,Mr. Peabody & Sherman,32207057,111506430,28.9%,3934,8186,2014-03-07,2,2014,Mr. Peabody & Sherman (2014),Spring
+498,Immortals,32206425,83504017,38.6%,3112,10349,2011-11-11,4,2011,Immortals (2011),Fall
+499,Wedding Crashers,32200000,209255921,15.4%,2925,11008,2005-07-15,3,2005,Wedding Crashers (2005),Summer
+500,Elf,32100000,173398518,18.5%,3337,9619,2003-11-07,4,2003,Elf (2003),Fall
+501,Jackass Presents: Bad Grandpa,32055177,102003019,31.4%,3336,9608,2013-10-25,4,2013,Jackass Presents: Bad Grandpa (2013),Fall
+502,The SpongeBob SquarePants Movie,32018216,85417988,37.5%,3212,9968,2004-11-19,4,2004,The SpongeBob SquarePants Movie (2004),Fall
+503,Paul Blart: Mall Cop,31832636,146336178,21.8%,3144,10124,2009-01-16,1,2009,Paul Blart: Mall Cop (2009),Winter
+504,Terminator 2: Judgment Day,31765506,204843345,15.5%,2274,13969,1991-07-03,3,1991,Terminator 2: Judgment Day (1991),Summer
+505,Saw IV,31756764,63300095,50.2%,3183,9976,2007-10-26,4,2007,Saw IV (2007),Fall
+506,Saw II,31725652,87039965,36.4%,2949,10758,2005-10-28,4,2005,Saw II (2005),Fall
+507,G-Force,31706934,119436770,26.6%,3697,8576,2009-07-24,3,2009,G-Force (2009),Summer
+508,The Mummy,31688375,80227895,39.5%,4035,7853,2017-06-09,3,2017,The Mummy (2017),Summer
+509,Bad Teacher,31603106,100292856,31.5%,3049,10365,2011-06-24,3,2011,Bad Teacher (2011),Summer
+510,The Truman Show,31542121,125618201,25.1%,2315,13625,1998-06-05,3,1998,The Truman Show (1998),Summer
+511,The Purge: Election Year,31515110,79213375,39.8%,2796,11271,2016-07-01,3,2016,The Purge: Election Year (2016),Summer
+512,The Wolfman,31479235,61979680,50.8%,3222,9770,2010-02-12,1,2010,The Wolfman (2010),Winter
+513,Ford v Ferrari,31474958,117624357,26.8%,3528,8921,2019-11-15,4,2019,Ford v Ferrari (2019),Fall
+514,Liar Liar,31423025,181410615,17.3%,2845,11045,1997-03-21,2,1997,Liar Liar (1997),Spring
+515,Percy Jackson & the Olympians: The Lightning Thief,31236067,88768303,35.2%,3356,9307,2010-02-12,1,2010,Percy Jackson & the Olympians: The Lightning Thief (2010),Winter
+516,Girls Trip,31201920,115171585,27.1%,2591,12042,2017-07-21,3,2017,Girls Trip (2017),Summer
+517,Evan Almighty,31192615,100462298,31%,3604,8654,2007-06-22,3,2007,Evan Almighty (2007),Summer
+518,The Sum of All Fears,31178526,118907036,26.2%,3183,9795,2002-05-31,2,2002,The Sum of All Fears (2002),Spring
+519,Home Alone 2: Lost in New York,31126882,173585516,17.9%,2222,14008,1992-11-20,4,1992,Home Alone 2: Lost in New York (1992),Fall
+520,Hannah Montana and Miley Cyrus: Best of Both Worlds Concert,31117834,65281781,47.7%,683,45560,2008-02-01,1,2008,Hannah Montana and Miley Cyrus: Best of Both Worlds Concert (2008),Winter
+521,Bringing Down the House,31101026,132716677,23.4%,2801,11103,2003-03-07,2,2003,Bringing Down the House (2003),Spring
+522,Four Christmases,31069826,120146040,25.9%,3310,9386,2008-11-26,4,2008,Four Christmases (2008),Fall
+523,Into the Woods,31051923,128002372,24.3%,2440,12726,2014-12-25,1,2014,Into the Woods (2014),Winter
+524,Pokémon: The First Movie - Mewtwo Strikes Back,31036678,85744662,36.2%,3043,10199,1999-11-10,4,1999,Pokémon: The First Movie - Mewtwo Strikes Back (1999),Fall
+525,Downton Abbey,31033665,96854135,32%,3079,10079,2019-09-20,4,2019,Downton Abbey (2019),Fall
+526,Sex and the City 2,31001870,95347692,32.5%,3445,8999,2010-05-27,2,2010,Sex and the City 2 (2010),Spring
+527,Step Brothers,30940732,100468793,30.8%,3094,10000,2008-07-25,3,2008,Step Brothers (2008),Summer
+528,Little Fockers,30833665,148438600,20.8%,3536,8719,2010-12-22,1,2010,Little Fockers (2010),Winter
+529,Star Trek: First Contact,30716131,92027888,33.4%,2812,10923,1996-11-22,4,1996,Star Trek: First Contact (1996),Fall
+530,Knocked Up,30690990,148768917,20.6%,2871,10690,2007-06-01,3,2007,Knocked Up (2007),Summer
+531,The Dukes of Hazzard,30675314,80270227,38.2%,3785,8104,2005-08-05,3,2005,The Dukes of Hazzard (2005),Summer
+532,Unbroken,30621445,115637895,26.5%,3131,9780,2014-12-25,1,2014,Unbroken (2014),Winter
+533,Brüno,30619130,60054530,51%,2756,11109,2009-07-10,3,2009,Brüno (2009),Summer
+534,Saving Private Ryan,30576104,216540909,14.1%,2463,12414,1998-07-24,3,1998,Saving Private Ryan (1998),Summer
+535,The Pacifier,30552694,113086868,27%,3131,9758,2005-03-04,2,2005,The Pacifier (2005),Spring
+536,Bram Stoker's Dracula,30521679,82522790,37%,2491,12252,1992-11-13,4,1992,Bram Stoker's Dracula (1992),Fall
+537,The Happening,30517109,64506874,47.3%,2986,10220,2008-06-13,3,2008,The Happening (2008),Summer
+538,Just Go with It,30514732,103028109,29.6%,3548,8600,2011-02-11,1,2011,Just Go with It (2011),Winter
+539,The Day the Earth Stood Still,30480153,79366978,38.4%,3560,8561,2008-12-12,1,2008,The Day the Earth Stood Still (2008),Winter
+540,Dear John,30468614,80014842,38.1%,2969,10262,2010-02-05,1,2010,Dear John (2010),Winter
+541,John Wick: Chapter 2,30436123,92029184,33.1%,3113,9777,2017-02-10,1,2017,John Wick: Chapter 2 (2017),Winter
+542,Night at the Museum,30433781,250863268,12.1%,3685,8258,2006-12-22,1,2006,Night at the Museum (2006),Winter
+543,Olympus Has Fallen,30373794,98925640,30.7%,3098,9804,2013-03-22,2,2013,Olympus Has Fallen (2013),Spring
+544,Unbreakable,30330771,95011339,31.9%,2708,11200,2000-11-22,4,2000,Unbreakable (2000),Fall
+545,Maze Runner: The Scorch Trials,30316510,81697192,37.1%,3791,7996,2015-09-18,4,2015,Maze Runner: The Scorch Trials (2015),Fall
+546,Cloudy with a Chance of Meatballs,30304648,124870275,24.3%,3119,9716,2009-09-18,4,2009,Cloudy with a Chance of Meatballs (2009),Fall
+547,The Addams Family,30300007,100044905,30.3%,4007,7561,2019-10-11,4,2019,The Addams Family (2019),Fall
+548,America's Sweethearts,30181877,93607673,32.2%,3011,10023,2001-07-20,3,2001,America's Sweethearts (2001),Summer
+549,John Carter,30180188,73078100,41.3%,3749,8050,2012-03-09,2,2012,John Carter (2012),Spring
+550,The Lion King,30151614,94242001,32%,2330,12940,2011-09-16,4,2011,The Lion King (2011),Fall
+551,The X Files,30138758,83898313,35.9%,2629,11463,1998-06-19,3,1998,The X Files (1998),Summer
+552,Django Unchained,30122888,162805434,18.5%,3010,10007,2012-12-25,1,2012,Django Unchained (2012),Winter
+553,The Best Man Holiday,30107555,70525195,42.7%,2024,14875,2013-11-15,4,2013,The Best Man Holiday (2013),Fall
+554,Trainwreck,30097040,110212700,27.3%,3158,9530,2015-07-17,3,2015,Trainwreck (2015),Summer
+555,Prince of Persia: The Sands of Time,30095259,90759676,33.2%,3646,8254,2010-05-28,2,2010,Prince of Persia: The Sands of Time (2010),Spring
+556,Dodgeball,30070196,114326736,26.3%,2694,11161,2004-06-18,3,2004,Dodgeball (2004),Summer
+557,Lemony Snicket's A Series of Unfortunate Events,30061756,118634549,25.3%,3620,8304,2004-12-17,1,2004,Lemony Snicket's A Series of Unfortunate Events (2004),Winter
+558,Sleepy Hollow,30060467,101071502,29.7%,3064,9810,1999-11-19,4,1999,Sleepy Hollow (1999),Fall
+559,Panic Room,30056751,96397334,31.2%,3053,9844,2002-03-29,2,2002,Panic Room (2002),Spring
+560,The Exorcism of Emily Rose,30054300,75072454,40%,2981,10081,2005-09-09,4,2005,The Exorcism of Emily Rose (2005),Fall
+561,Saw V,30053954,56746769,53%,3060,9821,2008-10-24,4,2008,Saw V (2008),Fall
+562,Catch Me If You Can,30053627,164615351,18.3%,3156,9522,2002-12-25,1,2002,Catch Me If You Can (2002),Winter
+563,A Christmas Carol,30051075,137855863,21.8%,3683,8159,2009-11-06,4,2009,A Christmas Carol (2009),Fall
+564,Men in Black: International,30035838,80001807,37.5%,4224,7110,2019-06-14,3,2019,Men in Black: International (2019),Summer
+565,Madea's Family Reunion,30030661,63257940,47.5%,2194,13687,2006-02-24,1,2006,Madea's Family Reunion (2006),Winter
+566,The Purge: Anarchy,29816675,71962800,41.4%,2805,10629,2014-07-18,3,2014,The Purge: Anarchy (2014),Summer
+567,Elysium,29807393,93050117,32%,3284,9076,2013-08-09,3,2013,Elysium (2013),Summer
+568,Hercules,29800263,72688614,41%,3595,8289,2014-07-25,3,2014,Hercules (2014),Summer
+569,Constantine,29769098,75976178,39.2%,3006,9903,2005-02-18,1,2005,Constantine (2005),Winter
+570,What Lies Beneath,29702959,155464351,19.1%,2813,10559,2000-07-21,3,2000,What Lies Beneath (2000),Summer
+571,The Flintstones,29688730,130531208,22.7%,2498,11885,1994-05-27,2,1994,The Flintstones (1994),Spring
+572,Dark Shadows,29685274,79727149,37.2%,3755,7905,2012-05-11,2,2012,Dark Shadows (2012),Spring
+573,Daddy's Home 2,29651193,104029443,28.5%,3575,8294,2017-11-10,4,2017,Daddy's Home 2 (2017),Fall
+574,Creed,29632823,109767581,27%,3404,8705,2015-11-25,4,2015,Creed (2015),Fall
+575,Insidious: The Last Key,29581355,67745330,43.7%,3116,9493,2018-01-05,1,2018,Insidious: The Last Key (2018),Winter
+576,Justin Bieber: Never Say Never,29514054,73013910,40.4%,3105,9505,2011-02-11,1,2011,Justin Bieber: Never Say Never (2011),Winter
+577,Ghostbusters II,29472894,112494738,26.2%,2410,12229,1989-06-16,3,1989,Ghostbusters II (1989),Summer
+578,Scooby-Doo 2: Monsters Unleashed,29438331,84216833,35%,3312,8888,2004-03-26,2,2004,Scooby-Doo 2: Monsters Unleashed (2004),Spring
+579,Indiana Jones and the Last Crusade,29355021,197171806,14.9%,2327,12614,1989-05-24,2,1989,Indiana Jones and the Last Crusade (1989),Spring
+580,A.I. Artificial Intelligence,29352630,78616689,37.3%,3242,9053,2001-06-29,3,2001,A.I. Artificial Intelligence (2001),Summer
+581,Now You See Me,29350389,117723989,24.9%,2925,10034,2013-05-31,2,2013,Now You See Me (2013),Spring
+582,Beverly Hills Chihuahua,29300465,94514402,31%,3215,9113,2008-10-03,4,2008,Beverly Hills Chihuahua (2008),Fall
+583,Why Did I Get Married Too?,29289537,60095852,48.7%,2155,13591,2010-04-02,2,2010,Why Did I Get Married Too? (2010),Spring
+584,Think Like a Man Too,29241911,65182182,44.9%,2225,13142,2014-06-20,3,2014,Think Like a Man Too (2014),Summer
+585,The Muppets,29239026,88631237,33%,3440,8499,2011-11-23,4,2011,The Muppets (2011),Fall
+586,The Lone Ranger,29210849,89302115,32.7%,3904,7482,2013-07-03,3,2013,The Lone Ranger (2013),Summer
+587,Eagle Eye,29150721,101440743,28.7%,3510,8305,2008-09-26,4,2008,Eagle Eye (2008),Fall
+588,Toy Story,29140617,191796233,15.2%,2457,11860,1995-11-22,4,1995,Toy Story (1995),Fall
+589,The Texas Chainsaw Massacre,29100000,80571655,36.1%,3016,9648,2003-10-17,4,2003,The Texas Chainsaw Massacre (2003),Fall
+590,Spy,29085719,110825712,26.2%,3711,7837,2015-06-05,3,2015,Spy (2015),Summer
+591,Terminator: Dark Fate,29033832,62253077,46.6%,4086,7105,2019-11-01,4,2019,Terminator: Dark Fate (2019),Fall
+592,Allegiant,29027348,66184051,43.9%,3740,7761,2016-03-18,2,2016,Allegiant (2016),Spring
+593,Doctor Dolittle,29014324,144156605,20.1%,2777,10448,1998-06-26,3,1998,Doctor Dolittle (1998),Summer
+594,The Santa Clause 2,29008696,139236327,20.8%,3350,8659,2002-11-01,4,2002,The Santa Clause 2 (2002),Fall
+595,Paranormal Activity 4,29003866,53885000,53.8%,3412,8500,2012-10-19,4,2012,Paranormal Activity 4 (2012),Fall
+596,Jackass Number Two,29002002,72778712,39.8%,3059,9480,2006-09-22,4,2006,Jackass Number Two (2006),Fall
+597,Inside Man,28954945,88513495,32.7%,2818,10274,2006-03-24,2,2006,Inside Man (2006),Spring
+598,Cast Away,28883406,233632142,12.4%,2774,10412,2000-12-22,1,2000,Cast Away (2000),Winter
+599,Non-Stop,28875635,92168600,31.3%,3090,9344,2014-02-28,1,2014,Non-Stop (2014),Winter
+600,Miss Peregrine's Home for Peculiar Children,28871140,87242834,33.1%,3522,8197,2016-09-30,4,2016,Miss Peregrine's Home for Peculiar Children (2016),Fall
+601,Edge of Tomorrow,28760246,100206256,28.7%,3490,8240,2014-06-06,3,2014,Edge of Tomorrow (2014),Summer
+602,Murder on the Orient Express,28681472,102826543,27.9%,3341,8584,2017-11-10,4,2017,Murder on the Orient Express (2017),Fall
+603,Titanic,28638131,600788188,4.8%,2674,10709,1997-12-19,1,1997,Titanic (1997),Winter
+604,Meet the Parents,28623300,166244045,17.2%,2614,10950,2000-10-06,4,2000,Meet the Parents (2000),Fall
+605,Obsessed,28612730,68261644,41.9%,2514,11381,2009-04-24,2,2009,Obsessed (2009),Spring
+606,The Expendables 2,28591370,85028192,33.6%,3316,8622,2012-08-17,3,2012,The Expendables 2 (2012),Summer
+607,Alita: Battle Angel,28525613,85710210,33.3%,3790,7526,2019-02-14,1,2019,Alita: Battle Angel (2019),Winter
+608,Tyler Perry's Boo! A Madea Halloween,28501448,73206343,38.9%,2260,12611,2016-10-21,4,2016,Tyler Perry's Boo! A Madea Halloween (2016),Fall
+609,Anchorman: The Legend of Ron Burgundy,28416365,85288303,33.3%,3091,9193,2004-07-09,3,2004,Anchorman: The Legend of Ron Burgundy (2004),Summer
+610,Mama,28402310,71628180,39.6%,2647,10730,2013-01-18,1,2013,Mama (2013),Winter
+611,Nacho Libre,28309599,80197993,35.3%,3070,9221,2006-06-16,3,2006,Nacho Libre (2006),Summer
+612,Horrible Bosses,28302165,117538559,24.1%,3040,9309,2011-07-08,3,2011,Horrible Bosses (2011),Summer
+613,The Invisible Man,28205665,64914050,43.4%,3610,7813,2020-02-28,1,2020,The Invisible Man (2020),Winter
+614,Erin Brockovich,28138465,125595205,22.4%,2848,9880,2000-03-17,2,2000,Erin Brockovich (2000),Spring
+615,Pacific Rim: Uprising,28116535,59874525,47%,3708,7582,2018-03-23,2,2018,Pacific Rim: Uprising (2018),Spring
+616,Starsky & Hutch,28103367,88237754,31.8%,3185,8823,2004-03-05,2,2004,Starsky & Hutch (2004),Spring
+617,Sin City,28100000,74103820,37.9%,3230,8699,2005-04-01,2,2005,Sin City (2005),Spring
+618,Back to the Future Part II,27835125,118450002,23.5%,1865,14925,1989-11-22,4,1989,Back to the Future Part II (1989),Fall
+619,Hairspray,27800000,118871849,23.4%,3121,8907,2007-07-20,3,2007,Hairspray (2007),Summer
+620,The Matrix,27788331,171479930,16.2%,2849,9753,1999-03-31,2,1999,The Matrix (1999),Spring
+621,He's Just Not That Into You,27785487,93953653,29.6%,3175,8751,2009-02-06,1,2009,He's Just Not That Into You (2009),Winter
+622,Mamma Mia!,27751240,144130063,19.2%,2976,9325,2008-07-18,3,2008,Mamma Mia! (2008),Summer
+623,Big Momma's House 2,27736056,70165972,39.5%,3261,8505,2006-01-27,1,2006,Big Momma's House 2 (2006),Winter
+624,Jarhead,27726210,62658220,44.2%,2411,11499,2005-11-04,4,2005,Jarhead (2005),Fall
+625,Along Came Polly,27721185,88097164,31.5%,2984,9289,2004-01-16,1,2004,Along Came Polly (2004),Winter
+626,Wild Wild West,27687484,113804681,24.3%,3342,8284,1999-06-30,3,1999,Wild Wild West (1999),Summer
+627,Daddy Day Care,27623580,104297061,26.5%,3370,8196,2003-05-09,2,2003,Daddy Day Care (2003),Spring
+628,The Ugly Truth,27605576,88915214,31%,2882,9578,2009-07-24,3,2009,The Ugly Truth (2009),Summer
+629,Cheaper by the Dozen,27557647,138614544,19.9%,3298,8355,2003-12-25,1,2003,Cheaper by the Dozen (2003),Winter
+630,Wonder,27547866,132422809,20.8%,3096,8897,2017-11-17,4,2017,Wonder (2017),Fall
+631,The Devil Wears Prada,27537244,124740460,22.1%,2847,9672,2006-06-30,3,2006,The Devil Wears Prada (2006),Summer
+632,Space Jam,27528529,90418342,30.4%,2650,10388,1996-11-15,4,1996,Space Jam (1996),Fall
+633,After Earth,27520040,60522097,45.5%,3401,8091,2013-05-31,2,2013,After Earth (2013),Spring
+634,Beowulf,27515871,82280579,33.4%,3153,8726,2007-11-16,4,2007,Beowulf (2007),Fall
+635,42,27487144,95020213,28.9%,3003,9153,2013-04-12,2,2013,42 (2013),Spring
+636,Bedtime Stories,27450296,110101975,24.9%,3681,7457,2008-12-25,1,2008,Bedtime Stories (2008),Winter
+637,The Final Destination,27408309,66477700,41.2%,3121,8781,2009-08-28,3,2009,The Final Destination (2009),Summer
+638,Jumper,27354808,80172128,34.1%,3428,7979,2008-02-14,1,2008,Jumper (2008),Winter
+639,Journey 2: The Mysterious Island,27335363,103860290,26.3%,3470,7877,2012-02-10,1,2012,Journey 2: The Mysterious Island (2012),Winter
+640,The Rugrats Movie,27321470,100494675,27.2%,2782,9820,1998-11-20,4,1998,The Rugrats Movie (1998),Fall
+641,Real Steel,27319677,85468508,32%,3440,7941,2011-10-07,4,2011,Real Steel (2011),Fall
+642,Les Misérables,27281735,148809770,18.3%,2814,9695,2012-12-25,1,2012,Les Misérables (2012),Winter
+643,Night School,27257615,77339130,35.2%,3010,9055,2018-09-28,4,2018,Night School (2018),Fall
+644,Jack the Giant Slayer,27202226,65187603,41.7%,3525,7716,2013-03-01,2,2013,Jack the Giant Slayer (2013),Spring
+645,The Bourne Identity,27118640,121661683,22.3%,2638,10280,2002-06-14,3,2002,The Bourne Identity (2002),Summer
+646,Tyler Perry's a Madea Family Funeral,27062332,73257045,36.9%,2442,11082,2019-03-01,2,2019,Tyler Perry's a Madea Family Funeral (2019),Spring
+647,2 Guns,27059130,75612460,35.8%,3025,8945,2013-08-02,3,2013,2 Guns (2013),Summer
+648,Terminator Genisys,27018486,89760956,30.1%,3758,7189,2015-07-01,3,2015,Terminator Genisys (2015),Summer
+649,Ender's Game,27017351,61737191,43.8%,3407,7929,2013-11-01,4,2013,Ender's Game (2013),Fall
+650,The Departed,26887467,132384315,20.3%,3017,8911,2006-10-06,4,2006,The Departed (2006),Fall
+651,Alice Through the Looking Glass,26858726,77041381,34.9%,3763,7137,2016-05-27,2,2016,Alice Through the Looking Glass (2016),Spring
+652,Underworld: Evolution,26857181,62318875,43.1%,3207,8374,2006-01-20,1,2006,Underworld: Evolution (2006),Winter
+653,The Curious Case of Benjamin Button,26853816,127509326,21.1%,2988,8987,2008-12-25,1,2008,The Curious Case of Benjamin Button (2008),Winter
+654,Zombieland: Double Tap,26803104,73123082,36.6%,3468,7728,2019-10-18,4,2019,Zombieland: Double Tap (2019),Fall
+655,Knives Out,26769548,165363234,16.2%,3461,7734,2019-11-27,4,2019,Knives Out (2019),Fall
+656,Flubber,26725207,92977226,28.7%,2641,10119,1997-11-26,4,1997,Flubber (1997),Fall
+657,Dawn of the Dead,26722575,59020957,45.3%,2745,9735,2004-03-19,2,2004,Dawn of the Dead (2004),Spring
+658,The Sixth Sense,26681262,293506292,9.1%,2161,12346,1999-08-06,3,1999,The Sixth Sense (1999),Summer
+659,Resident Evil: Afterlife,26650264,60128566,44.3%,3203,8320,2010-09-10,4,2010,Resident Evil: Afterlife (2010),Fall
+660,The House with a Clock in Its Walls,26608020,68549695,38.8%,3592,7407,2018-09-21,4,2018,The House with a Clock in Its Walls (2018),Fall
+661,The Campaign,26588460,86907746,30.6%,3205,8295,2012-08-10,3,2012,The Campaign (2012),Summer
+662,Spy Kids,26546881,112719001,23.6%,3104,8552,2001-03-30,2,2001,Spy Kids (2001),Spring
+663,The Pursuit of Happyness,26541709,163566459,16.2%,2852,9306,2006-12-15,1,2006,The Pursuit of Happyness (2006),Winter
+664,Crazy Rich Asians,26510140,174532921,15.2%,3384,7833,2018-08-15,3,2018,Crazy Rich Asians (2018),Summer
+665,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,26455463,128505958,20.6%,837,31607,2006-11-03,4,2006,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006),Fall
+666,All Eyez on Me,26435354,44922302,58.8%,2471,10698,2017-06-16,3,2017,All Eyez on Me (2017),Summer
+667,We're the Millers,26419396,150394119,17.6%,3260,8104,2013-08-07,3,2013,We're the Millers (2013),Summer
+668,Hollow Man,26414386,73209340,36.1%,2956,8935,2000-08-04,3,2000,Hollow Man (2000),Summer
+669,Don't Breathe,26411706,89217875,29.6%,3051,8656,2016-08-26,3,2016,Don't Breathe (2016),Summer
+670,Halloween,26362367,58272029,45.2%,3472,7592,2007-08-31,3,2007,Halloween (2007),Summer
+671,Beverly Hills Cop II,26348555,153665036,17.2%,2326,11327,1987-05-20,2,1987,Beverly Hills Cop II (1987),Spring
+672,The Curse of La Llorona,26347631,54733739,48.1%,3372,7813,2019-04-19,2,2019,The Curse of La Llorona (2019),Spring
+673,Bridesmaids,26247410,169106725,15.5%,2918,8995,2011-05-13,2,2011,Bridesmaids (2011),Spring
+674,Anchorman 2: The Legend Continues,26232425,125168368,21%,3507,7480,2013-12-18,1,2013,Anchorman 2: The Legend Continues (2013),Winter
+675,Bolt,26223128,114053579,23%,3651,7182,2008-11-21,4,2008,Bolt (2008),Fall
+676,GoldenEye,26205007,106429941,24.6%,2667,9825,1995-11-17,4,1995,GoldenEye (1995),Fall
+677,The Golden Compass,26125000,70107728,37.3%,3528,7405,2007-12-07,1,2007,The Golden Compass (2007),Winter
+678,The Help,26044590,169708112,15.4%,2534,10278,2011-08-10,3,2011,The Help (2011),Summer
+679,Happy Death Day,26039025,55683845,46.8%,3149,8268,2017-10-13,4,2017,Happy Death Day (2017),Fall
+680,The Perfect Guy,25888154,57027435,45.4%,2221,11656,2015-09-11,4,2015,The Perfect Guy (2015),Fall
+681,True Lies,25869770,146282411,17.7%,2368,10924,1994-07-15,3,1994,True Lies (1994),Summer
+682,Tropic Thunder,25812796,110515313,23.4%,3319,7777,2008-08-13,3,2008,Tropic Thunder (2008),Summer
+683,Evil Dead,25775847,54239856,47.5%,3025,8520,2013-04-05,2,2013,Evil Dead (2013),Spring
+684,Rocketman,25725722,96368160,26.7%,3610,7126,2019-05-31,2,2019,Rocketman (2019),Spring
+685,Miami Vice,25723815,63450470,40.5%,3021,8515,2006-07-28,3,2006,Miami Vice (2006),Summer
+686,Captain Phillips,25718314,107100855,24%,3020,8515,2013-10-11,4,2013,Captain Phillips (2013),Fall
+687,Fantastic Four,25685737,56117548,45.8%,3995,6429,2015-08-07,3,2015,Fantastic Four (2015),Summer
+688,The A-Team,25669455,77222099,33.2%,3535,7261,2010-06-11,3,2010,The A-Team (2010),Summer
+689,Big Momma's House,25661041,117559438,21.8%,2802,9158,2000-06-02,3,2000,Big Momma's House (2000),Summer
+690,About Last Night,25649011,48637684,52.7%,2253,11384,2014-02-14,1,2014,About Last Night (2014),Winter
+691,V for Vendetta,25642340,70511035,36.4%,3365,7620,2006-03-17,2,2006,V for Vendetta (2006),Spring
+692,Robin Hood: Prince of Thieves,25625602,165493908,15.5%,2369,10817,1991-06-14,3,1991,Robin Hood: Prince of Thieves (1991),Summer
+693,Son of God,25601865,59700064,42.9%,3260,7853,2014-02-28,1,2014,Son of God (2014),Winter
+694,Kill Bill: Vol. 2,25600000,66208183,38.7%,2971,8616,2004-04-16,2,2004,Kill Bill: Vol. 2 (2004),Spring
+695,Total Recall,25577758,58877969,43.4%,3601,7102,2012-08-03,3,2012,Total Recall (2012),Summer
+696,Battleship,25534825,65422625,39%,3690,6920,2012-05-18,2,2012,Battleship (2012),Spring
+697,Total Recall,25533700,119394840,21.4%,2060,12395,1990-06-01,3,1990,Total Recall (1990),Summer
+698,Penguins of Madagascar,25447444,83850911,30.4%,3764,6760,2014-11-26,4,2014,Penguins of Madagascar (2014),Fall
+699,The Visit,25427560,65206105,39%,3069,8285,2015-09-11,4,2015,The Visit (2015),Fall
+700,The Nutty Professor,25411725,128814019,19.7%,2115,12015,1996-06-28,3,1996,The Nutty Professor (1996),Summer
+701,The Firm,25400000,158348367,16%,2393,10614,1993-07-02,3,1993,The Firm (1993),Summer
+702,Teenage Mutant Ninja Turtles,25398367,135265915,18.8%,2006,12661,1990-03-30,2,1990,Teenage Mutant Ninja Turtles (1990),Spring
+703,Madea's Witness Protection,25390575,65653242,38.7%,2161,11749,2012-06-29,3,2012,Madea's Witness Protection (2012),Summer
+704,Gnomeo & Juliet,25356909,99967670,25.4%,2994,8469,2011-02-11,1,2011,Gnomeo & Juliet (2011),Winter
+705,Apollo 13,25353380,172071312,14.7%,2197,11540,1995-06-30,3,1995,Apollo 13 (1995),Summer
+706,Indiana Jones and the Temple of Doom,25337110,179870271,14.1%,1687,15019,1984-05-23,2,1984,Indiana Jones and the Temple of Doom (1984),Spring
+707,Gone in 60 Seconds,25336048,101648571,24.9%,3006,8428,2000-06-09,3,2000,Gone in 60 Seconds (2000),Summer
+708,Underworld Awakening,25306725,62321039,40.6%,3078,8221,2012-01-20,1,2012,Underworld Awakening (2012),Winter
+709,Public Enemies,25271675,97104620,26%,3334,7579,2009-07-01,3,2009,Public Enemies (2009),Summer
+710,Patch Adams,25262280,135026902,18.7%,2712,9315,1998-12-25,1,1998,Patch Adams (1998),Winter
+711,Date Night,25207599,98711404,25.5%,3374,7471,2010-04-09,2,2010,Date Night (2010),Spring
+712,Tomorrow Never Dies,25143007,125304276,20.1%,2807,8957,1997-12-19,1,1997,Tomorrow Never Dies (1997),Winter
+713,Meet the Robinsons,25123781,97822171,25.7%,3413,7361,2007-03-30,2,2007,Meet the Robinsons (2007),Spring
+714,Master and Commander: The Far Side of the World,25105990,93927920,26.7%,3101,8096,2003-11-14,4,2003,Master and Commander: The Far Side of the World (2003),Fall
+715,The Rock,25069525,134069511,18.7%,2392,10480,1996-06-07,3,1996,The Rock (1996),Summer
+716,Tyler Perry's Madea's Big Happy Family,25068677,53345287,47%,2288,10956,2011-04-22,2,2011,Tyler Perry's Madea's Big Happy Family (2011),Spring
+717,Dr. Dolittle 2,25037039,112952899,22.2%,3049,8211,2001-06-22,3,2001,Dr. Dolittle 2 (2001),Summer
+718,Vanilla Sky,25015518,100618344,24.9%,2742,9123,2001-12-14,1,2001,Vanilla Sky (2001),Winter
+719,Peter Rabbit,25010928,115253424,21.7%,3725,6714,2018-02-09,1,2018,Peter Rabbit (2018),Winter
+720,Jack and Jill,25003575,74158157,33.7%,3438,7272,2011-11-11,4,2011,Jack and Jill (2011),Fall
+721,Skyscraper,24905015,68420120,36.4%,3782,6585,2018-07-13,3,2018,Skyscraper (2018),Summer
+722,Flight,24900566,93772375,26.6%,1884,13216,2012-11-02,4,2012,Flight (2012),Fall
+723,White House Down,24852258,73103784,34%,3222,7713,2013-06-28,3,2013,White House Down (2013),Summer
+724,A Good Day to Die Hard,24834845,67349198,36.9%,3553,6989,2013-02-14,1,2013,A Good Day to Die Hard (2013),Winter
+725,True Grit,24830443,171243005,14.5%,3047,8149,2010-12-22,1,2010,True Grit (2010),Winter
+726,The Call of the Wild,24791624,62342368,39.8%,3752,6607,2020-02-21,1,2020,The Call of the Wild (2020),Winter
+727,The Other Woman,24763752,83911193,29.5%,3205,7726,2014-04-25,2,2014,The Other Woman (2014),Spring
+728,Predators,24760882,52000688,47.6%,2669,9277,2010-07-09,3,2010,Predators (2010),Summer
+729,Zombieland,24733155,75590286,32.7%,3036,8146,2009-10-02,4,2009,Zombieland (2009),Fall
+730,10 Cloverfield Lane,24727437,72082998,34.3%,3391,7292,2016-03-11,2,2016,10 Cloverfield Lane (2016),Spring
+731,Taken,24717037,145000989,17%,3183,7765,2009-01-30,1,2009,Taken (2009),Winter
+732,The Accountant,24710273,86260045,28.6%,3332,7416,2016-10-14,4,2016,The Accountant (2016),Fall
+733,Collateral,24701458,101005703,24.5%,3188,7748,2004-08-06,3,2004,Collateral (2004),Summer
+734,Congo,24642539,81022101,30.4%,2649,9302,1995-06-09,3,1995,Congo (1995),Summer
+735,Lee Daniels' The Butler,24637312,116632095,21.1%,2933,8400,2013-08-16,3,2013,Lee Daniels' The Butler (2013),Summer
+736,The Predator,24632284,51024708,48.3%,4037,6101,2018-09-14,4,2018,The Predator (2018),Fall
+737,Flightplan,24629938,89707299,27.5%,3424,7193,2005-09-23,4,2005,Flightplan (2005),Fall
+738,Knowing,24604751,79957634,30.8%,3332,7384,2009-03-20,2,2009,Knowing (2009),Spring
+739,Christopher Robin,24585139,99215042,24.8%,3602,6825,2018-08-03,3,2018,Christopher Robin (2018),Summer
+740,Eraser,24566446,101295562,24.2%,2410,10193,1996-06-21,3,1996,Eraser (1996),Summer
+741,The Girl on the Train,24536265,75395035,32.5%,3144,7804,2016-10-07,4,2016,The Girl on the Train (2016),Fall
+742,The Emoji Movie,24531923,86089513,28.5%,4075,6020,2017-07-28,3,2017,The Emoji Movie (2017),Summer
+743,Pet Sematary,24502775,54724696,44.8%,3585,6834,2019-04-05,2,2019,Pet Sematary (2019),Spring
+744,Act of Valor,24476632,70012847,35%,3039,8054,2012-02-24,1,2012,Act of Valor (2012),Winter
+745,Forrest Gump,24450602,329694499,7.4%,1595,15329,1994-07-06,3,1994,Forrest Gump (1994),Summer
+746,Mean Girls,24432195,86058055,28.4%,2839,8605,2004-04-30,2,2004,Mean Girls (2004),Spring
+747,Failure to Launch,24411322,88715192,27.5%,3057,7985,2006-03-10,2,2006,Failure to Launch (2006),Spring
+748,Race to Witch Mountain,24402214,67172594,36.3%,3187,7656,2009-03-13,2,2009,Race to Witch Mountain (2009),Spring
+749,Contraband,24349815,66528000,36.6%,2863,8505,2012-01-13,1,2012,Contraband (2012),Winter
+750,The Chronicles of Riddick,24289165,57761012,42%,2757,8809,2004-06-11,3,2004,The Chronicles of Riddick (2004),Summer
+751,The Haunted Mansion,24278410,75847266,32%,3122,7776,2003-11-26,4,2003,The Haunted Mansion (2003),Fall
+752,The Last Samurai,24271354,111127263,21.8%,2908,8346,2003-12-05,1,2003,The Last Samurai (2003),Winter
+753,TMNT,24255205,54149098,44.8%,3110,7799,2007-03-23,2,2007,TMNT (2007),Spring
+754,No Good Deed,24250283,52543632,46.2%,2175,11149,2014-09-12,4,2014,No Good Deed (2014),Fall
+755,Barbershop 2: Back in Business,24241612,65111277,37.2%,2711,8941,2004-02-06,1,2004,Barbershop 2: Back in Business (2004),Winter
+756,"Me, Myself & Irene",24209385,90570999,26.7%,3019,8019,2000-06-23,3,2000,"Me, Myself & Irene (2000)",Summer
+757,The Addams Family,24203754,113502426,21.3%,2411,10038,1991-11-22,4,1991,The Addams Family (1991),Fall
+758,Coach Carter,24182961,67264877,36%,2524,9581,2005-01-14,1,2005,Coach Carter (2005),Winter
+759,Maze Runner: The Death Cure,24167011,58032443,41.6%,3787,6381,2018-01-26,1,2018,Maze Runner: The Death Cure (2018),Winter
+760,Warcraft,24166110,47365290,51%,3400,7107,2016-06-10,3,2016,Warcraft (2016),Summer
+761,Con Air,24131738,101117573,23.9%,2824,8545,1997-06-06,3,1997,Con Air (1997),Summer
+762,Exodus: Gods and Kings,24115934,65014513,37.1%,3503,6884,2014-12-12,1,2014,Exodus: Gods and Kings (2014),Winter
+763,White Noise,24113565,56386759,42.8%,2261,10665,2005-01-07,1,2005,White Noise (2005),Winter
+764,21,24105943,81159365,29.7%,2648,9103,2008-03-28,2,2008,21 (2008),Spring
+765,Arrival,24074047,100546139,23.9%,2317,10390,2016-11-11,4,2016,Arrival (2016),Fall
+766,Tower Heist,24025190,78046570,30.8%,3367,7135,2011-11-04,4,2011,Tower Heist (2011),Fall
+767,Pixels,24011616,78747585,30.5%,3723,6449,2015-07-24,3,2015,Pixels (2015),Summer
+768,The Chronicles of Narnia: The Voyage of the Dawn Treader,24005069,104386950,23%,3555,6752,2010-12-10,1,2010,The Chronicles of Narnia: The Voyage of the Dawn Treader (2010),Winter
+769,Monster-in-Law,24000000,82931301,28.9%,3424,7009,2005-05-13,2,2005,Monster-in-Law (2005),Spring
+770,The Fast and the Furious: Tokyo Drift,23973840,62514415,38.4%,3027,7920,2006-06-16,3,2006,The Fast and the Furious: Tokyo Drift (2006),Summer
+771,Fahrenheit 9/11,23920637,119194771,20.1%,868,27558,2004-06-23,3,2004,Fahrenheit 9/11 (2004),Summer
+772,Captain Underpants: The First Epic Movie,23851539,73921000,32.3%,3434,6945,2017-06-02,3,2017,Captain Underpants: The First Epic Movie (2017),Summer
+773,Bad Moms,23817340,113257297,21%,3215,7408,2016-07-29,3,2016,Bad Moms (2016),Summer
+774,The Town,23808032,92186262,25.8%,2861,8321,2010-09-17,4,2010,The Town (2010),Fall
+775,How to Lose a Guy in 10 Days,23774850,105813373,22.5%,2923,8133,2003-02-07,1,2003,How to Lose a Guy in 10 Days (2003),Winter
+776,Rise of the Guardians,23773465,103412758,23%,3653,6507,2012-11-21,4,2012,Rise of the Guardians (2012),Fall
+777,Paul Blart: Mall Cop 2,23762435,71038190,33.4%,3633,6540,2015-04-17,2,2015,Paul Blart: Mall Cop 2 (2015),Spring
+778,The Fugitive,23758855,183875760,12.9%,2340,10153,1993-08-06,3,1993,The Fugitive (1993),Summer
+779,Diary of a Wimpy Kid: Rodrick Rules,23751502,52698535,45.1%,3167,7499,2011-03-25,2,2011,Diary of a Wimpy Kid: Rodrick Rules (2011),Spring
+780,17 Again,23722310,64167069,37%,3255,7287,2009-04-17,2,2009,17 Again (2009),Spring
+781,Fury,23702421,85817906,27.6%,3173,7470,2014-10-17,4,2014,Fury (2014),Fall
+782,Resident Evil: Extinction,23678580,50648679,46.8%,2828,8372,2007-09-21,4,2007,Resident Evil: Extinction (2007),Fall
+783,Tomb Raider,23633317,58250803,40.6%,3854,6132,2018-03-16,2,2018,Tomb Raider (2018),Spring
+784,Open Season,23624548,85105259,27.8%,3833,6163,2006-09-29,4,2006,Open Season (2006),Fall
+785,Goosebumps,23618556,80080379,29.5%,3501,6746,2015-10-16,4,2015,Goosebumps (2015),Fall
+786,The Boss,23586645,63285885,37.3%,3480,6777,2016-04-08,2,2016,The Boss (2016),Spring
+787,Dinner for Schmucks,23527839,73026337,32.2%,2911,8082,2010-07-30,3,2010,Dinner for Schmucks (2010),Summer
+788,Mary Poppins Returns,23523121,171958438,13.7%,4090,5751,2018-12-19,1,2018,Mary Poppins Returns (2018),Winter
+789,Dracula Untold,23514615,56280355,41.8%,2885,8150,2014-10-10,4,2014,Dracula Untold (2014),Fall
+790,The Amityville Horror,23507007,65233369,36%,3323,7074,2005-04-15,2,2005,The Amityville Horror (2005),Spring
+791,Be Cool,23450212,56046979,41.8%,3216,7291,2005-03-04,2,2005,Be Cool (2005),Spring
+792,I Can Do Bad All by Myself,23446785,51733921,45.3%,2255,10397,2009-09-11,4,2009,I Can Do Bad All by Myself (2009),Fall
+793,Save the Last Dance,23444930,91057006,25.8%,2230,10513,2001-01-12,1,2001,Save the Last Dance (2001),Winter
+794,Once Upon a Time in Mexico,23424118,56359780,41.6%,3282,7137,2003-09-12,4,2003,Once Upon a Time in Mexico (2003),Fall
+795,Face/Off,23387530,112276146,20.8%,2621,8923,1997-06-27,3,1997,Face/Off (1997),Summer
+796,The Taking of Pelham 123,23373102,65452312,35.7%,3074,7603,2009-06-12,3,2009,The Taking of Pelham 123 (2009),Summer
+797,The Polar Express,23323463,162775358,14.3%,3650,6389,2004-11-10,4,2004,The Polar Express (2004),Fall
+798,Mortal Kombat,23283887,70454098,33%,2421,9617,1995-08-18,3,1995,Mortal Kombat (1995),Summer
+799,Pineapple Express,23245025,87341380,26.6%,3072,7566,2008-08-06,3,2008,Pineapple Express (2008),Summer
+800,Alvin and the Chipmunks: Chipwrecked,23244744,133110742,17.5%,3723,6243,2011-12-16,1,2011,Alvin and the Chipmunks: Chipwrecked (2011),Winter
+801,Eragon,23239907,75030163,31%,3020,7695,2006-12-15,1,2006,Eragon (2006),Winter
+802,This Is It,23234394,72091016,32.2%,3481,6674,2009-10-28,4,2009,This Is It (2009),Fall
+803,Hellboy,23172440,59623958,38.9%,3028,7652,2004-04-02,2,2004,Hellboy (2004),Spring
+804,Double Jeopardy,23162542,116741558,19.8%,2547,9094,1999-09-24,4,1999,Double Jeopardy (1999),Fall
+805,The Mask,23117068,119938730,19.3%,2360,9795,1994-07-29,3,1994,The Mask (1994),Summer
+806,Star Trek: Generations,23116394,75671125,30.6%,2659,8693,1994-11-18,4,1994,Star Trek: Generations (1994),Fall
+807,Eat Pray Love,23104523,80574010,28.7%,3082,7496,2010-08-13,3,2010,Eat Pray Love (2010),Summer
+808,The League of Extraordinary Gentlemen,23075892,66465204,34.7%,3002,7686,2003-07-11,3,2003,The League of Extraordinary Gentlemen (2003),Summer
+809,Smallfoot,23045635,83240103,27.7%,4131,5578,2018-09-28,4,2018,Smallfoot (2018),Fall
+810,Resident Evil: Apocalypse,23036273,51201453,45%,3284,7014,2004-09-10,4,2004,Resident Evil: Apocalypse (2004),Fall
+811,Star Wars: Episode VI - Return of the Jedi,23019618,252583617,9.1%,1002,22973,1983-05-25,2,1983,Star Wars: Episode VI - Return of the Jedi (1983),Spring
+812,27 Dresses,23007725,76808654,30%,3057,7526,2008-01-18,1,2008,27 Dresses (2008),Winter
+813,The Haunting in Connecticut,23004765,55389516,41.5%,2732,8420,2009-03-27,2,2009,The Haunting in Connecticut (2009),Spring
+814,The Princess Diaries 2: Royal Engagement,22956453,95170481,24.1%,3472,6611,2004-08-11,3,2004,The Princess Diaries 2: Royal Engagement (2004),Summer
+815,The Game Plan,22950971,90648202,25.3%,3103,7396,2007-09-28,4,2007,The Game Plan (2007),Fall
+816,Vantage Point,22874936,72266306,31.6%,3149,7264,2008-02-22,1,2008,Vantage Point (2008),Winter
+817,Jack Reacher: Never Go Back,22872490,58697076,39%,3780,6050,2016-10-21,4,2016,Jack Reacher: Never Go Back (2016),Fall
+818,The Princess Diaries,22862269,108248956,21.1%,2537,9011,2001-08-03,3,2001,The Princess Diaries (2001),Summer
+819,Mission to Mars,22855247,60883407,37.5%,3054,7483,2000-03-10,2,2000,Mission to Mars (2000),Spring
+820,The Interpreter,22822455,72708161,31.4%,2758,8275,2005-04-22,2,2005,The Interpreter (2005),Spring
+821,Jackass: The Movie,22763437,64255312,35.4%,2509,9072,2002-10-25,4,2002,Jackass: The Movie (2002),Fall
+822,Man on Fire,22751490,77911774,29.2%,2980,7634,2004-04-21,2,2004,Man on Fire (2004),Spring
+823,Mulan,22745143,120620254,18.9%,2888,7875,1998-06-19,3,1998,Mulan (1998),Summer
+824,Rugrats in Paris: The Movie,22718184,76507756,29.7%,2934,7743,2000-11-17,4,2000,Rugrats in Paris: The Movie (2000),Fall
+825,Insidious: Chapter 3,22692741,52218558,43.5%,3002,7559,2015-06-05,3,2015,Insidious: Chapter 3 (2015),Summer
+826,Unstoppable,22688457,81562942,27.8%,3207,7074,2010-11-12,4,2010,Unstoppable (2010),Fall
+827,Funny People,22657780,51855045,43.7%,3007,7535,2009-07-31,3,2009,Funny People (2009),Summer
+828,Black Mass,22635037,62575678,36.2%,3188,7100,2015-09-18,4,2015,Black Mass (2015),Fall
+829,Poltergeist,22620386,47425125,47.7%,3240,6981,2015-05-22,2,2015,Poltergeist (2015),Spring
+830,The Time Machine,22610437,56832494,39.8%,2944,7680,2002-03-08,2,2002,The Time Machine (2002),Spring
+831,Bridge to Terabithia,22564612,82272442,27.4%,3139,7188,2007-02-16,1,2007,Bridge to Terabithia (2007),Winter
+832,Training Day,22550788,76631907,29.4%,2712,8315,2001-10-05,4,2001,Training Day (2001),Fall
+833,Dick Tracy,22543911,103738726,21.7%,2332,9667,1990-06-15,3,1990,Dick Tracy (1990),Summer
+834,Saw: The Final Chapter,22530123,45710178,49.3%,2808,8023,2010-10-29,4,2010,Saw: The Final Chapter (2010),Fall
+835,The Mask of Zorro,22525855,94095523,23.9%,2515,8956,1998-07-17,3,1998,The Mask of Zorro (1998),Summer
+836,Heaven Is for Real,22522221,91443253,24.6%,2417,9318,2014-04-16,2,2014,Heaven Is for Real (2014),Spring
+837,The Lucky One,22518358,60457138,37.2%,3155,7137,2012-04-20,2,2012,The Lucky One (2012),Spring
+838,Shallow Hal,22518295,70839203,31.8%,2770,8129,2001-11-09,4,2001,Shallow Hal (2001),Fall
+839,Star Wars: Episode I - The Phantom Menace,22469932,43456382,51.7%,2655,8463,2012-02-10,1,2012,Star Wars: Episode I - The Phantom Menace (2012),Winter
+840,Life of Pi,22451514,124987023,18%,2927,7670,2012-11-21,4,2012,Life of Pi (2012),Fall
+841,The Social Network,22445653,96962694,23.2%,2771,8100,2010-10-01,4,2010,The Social Network (2010),Fall
+842,The Patriot,22413710,113330342,19.8%,3061,7322,2000-06-28,3,2000,The Patriot (2000),Summer
+843,Contagion,22403596,75658097,29.6%,3222,6953,2011-09-09,4,2011,Contagion (2011),Fall
+844,Now You See Me 2,22383146,65075540,34.4%,3232,6925,2016-06-10,3,2016,Now You See Me 2 (2016),Summer
+845,Walk the Line,22347341,119519402,18.7%,2961,7547,2005-11-18,4,2005,Walk the Line (2005),Fall
+846,The General's Daughter,22332053,102705852,21.7%,2856,7819,1999-06-18,3,1999,The General's Daughter (1999),Summer
+847,Planes,22232291,90288712,24.6%,3702,6005,2013-08-09,3,2013,Planes (2013),Summer
+848,Disturbia,22224982,80209692,27.7%,2925,7598,2007-04-13,2,2007,Disturbia (2007),Spring
+849,Legally Blonde 2,22220670,90186328,24.6%,3350,6633,2003-07-02,3,2003,Legally Blonde 2 (2003),Summer
+850,Monster House,22217226,73661010,30.2%,3553,6253,2006-07-21,3,2006,Monster House (2006),Summer
+851,Freaky Friday,22203007,110230332,20.1%,2954,7516,2003-08-06,3,2003,Freaky Friday (2003),Summer
+852,Kill Bill: Vol. 1,22200000,70099045,31.7%,3102,7156,2003-10-10,4,2003,Kill Bill: Vol. 1 (2003),Fall
+853,Die Hard with a Vengeance,22162245,100012499,22.2%,2525,8777,1995-05-19,2,1995,Die Hard with a Vengeance (1995),Spring
+854,Poseidon,22155410,60674817,36.5%,3555,6232,2006-05-12,2,2006,Poseidon (2006),Spring
+855,Diary of a Wimpy Kid,22126166,64003625,34.6%,3077,7190,2010-03-19,2,2010,Diary of a Wimpy Kid (2010),Spring
+856,Ghost Rider: Spirit of Vengeance,22115334,51774002,42.7%,3174,6967,2012-02-17,1,2012,Ghost Rider: Spirit of Vengeance (2012),Winter
+857,It's Complicated,22100820,112735375,19.6%,2887,7655,2009-12-25,1,2009,It's Complicated (2009),Winter
+858,Ladder 49,22088204,74541707,29.6%,3260,6775,2004-10-01,4,2004,Ladder 49 (2004),Fall
+859,Road to Perdition,22079481,104454762,21.1%,1797,12286,2002-07-12,3,2002,Road to Perdition (2002),Summer
+860,Starship Troopers,22058773,54814377,40.2%,2971,7424,1997-11-07,4,1997,Starship Troopers (1997),Fall
+861,Star Trek: Insurrection,22052836,70187658,31.4%,2620,8417,1998-12-11,1,1998,Star Trek: Insurrection (1998),Winter
+862,Chronicle,22004098,64575175,34.1%,2907,7569,2012-02-03,1,2012,Chronicle (2012),Winter
+863,The Monuments Men,22003433,78031620,28.2%,3083,7137,2014-02-07,1,2014,The Monuments Men (2014),Winter
+864,Star Wars: Episode V - The Empire Strikes Back,21975993,67597694,32.5%,2111,10410,1997-02-21,1,1997,Star Wars: Episode V - The Empire Strikes Back (1997),Winter
+865,Hide and Seek,21959233,51100486,43%,3005,7307,2005-01-28,1,2005,Hide and Seek (2005),Winter
+866,Diary of a Mad Black Woman,21905089,50633099,43.3%,1483,14770,2005-02-25,1,2005,Diary of a Mad Black Woman (2005),Winter
+867,Inspector Gadget,21889138,97403112,22.5%,2814,7778,1999-07-23,3,1999,Inspector Gadget (1999),Summer
+868,Unknown,21856389,63686397,34.3%,3043,7182,2011-02-18,1,2011,Unknown (2011),Winter
+869,Dolittle,21844045,77047065,28.4%,4155,5257,2020-01-17,1,2020,Dolittle (2020),Winter
+870,Stomp the Yard,21833312,61356221,35.6%,2051,10645,2007-01-12,1,2007,Stomp the Yard (2007),Winter
+871,Notting Hill,21811180,116089678,18.8%,2747,7940,1999-05-28,2,1999,Notting Hill (1999),Spring
+872,Lara Croft Tomb Raider: The Cradle of Life,21783641,65660196,33.2%,3222,6760,2003-07-25,3,2003,Lara Croft Tomb Raider: The Cradle of Life (2003),Summer
+873,RED,21761408,90380162,24.1%,3255,6685,2010-10-15,4,2010,RED (2010),Fall
+874,Neighbors 2: Sorority Rising,21760405,55455765,39.2%,3384,6430,2016-05-20,2,2016,Neighbors 2: Sorority Rising (2016),Spring
+875,Underworld,21753759,51970690,41.9%,2915,7462,2003-09-19,4,2003,Underworld (2003),Fall
+876,Die Hard 2,21744661,117540947,18.5%,2507,8673,1990-07-06,3,1990,Die Hard 2 (1990),Summer
+877,Texas Chainsaw,21744470,34341945,63.3%,2654,8193,2013-01-04,1,2013,Texas Chainsaw (2013),Winter
+878,Garfield,21727611,75369589,28.8%,3094,7022,2004-06-11,3,2004,Garfield (2004),Summer
+879,Shaft,21714757,70334258,30.9%,2337,9291,2000-06-16,3,2000,Shaft (2000),Summer
+880,Cats & Dogs,21707617,93385515,23.2%,3040,7140,2001-07-04,3,2001,Cats & Dogs (2001),Summer
+881,Eyes Wide Shut,21706163,55691208,39%,2411,9002,1999-07-16,3,1999,Eyes Wide Shut (1999),Summer
+882,Spy Game,21689125,62362560,34.8%,2770,7830,2001-11-21,4,2001,Spy Game (2001),Fall
+883,Lights Out,21688103,67268835,32.2%,2818,7696,2016-07-22,3,2016,Lights Out (2016),Summer
+884,RoboCop,21681430,58607007,37%,3372,6429,2014-02-12,1,2014,RoboCop (2014),Winter
+885,My Best Friend's Wedding,21678377,127120029,17%,2134,10158,1997-06-20,3,1997,My Best Friend's Wedding (1997),Summer
+886,Bumblebee,21654047,127195589,17%,3550,6099,2018-12-21,1,2018,Bumblebee (2018),Winter
+887,Temptation: Confessions of a Marriage Counselor,21641679,51975354,41.6%,2047,10572,2013-03-29,2,2013,Temptation: Confessions of a Marriage Counselor (2013),Spring
+888,London Has Fallen,21635601,62524260,34.6%,3490,6199,2016-03-04,2,2016,London Has Fallen (2016),Spring
+889,Little Man,21613176,58645052,36.8%,2533,8532,2006-07-14,3,2006,Little Man (2006),Summer
+890,When a Stranger Calls,21607203,47860214,45.2%,2999,7204,2006-02-03,1,2006,When a Stranger Calls (2006),Winter
+891,Fool's Gold,21589295,70231041,30.7%,3125,6908,2008-02-08,1,2008,Fool's Gold (2008),Winter
+892,Tammy,21577049,84525432,25.5%,3465,6227,2014-07-02,3,2014,Tammy (2014),Summer
+893,Christmas with the Kranks,21570867,73780539,29.2%,3393,6357,2004-11-24,4,2004,Christmas with the Kranks (2004),Fall
+894,"You, Me and Dupree",21525560,75628110,28.5%,3131,6874,2006-07-14,3,2006,"You, Me and Dupree (2006)",Summer
+895,Pete's Dragon,21514095,76233151,28.2%,3702,5811,2016-08-12,3,2016,Pete's Dragon (2016),Summer
+896,American Reunion,21514080,57011521,37.7%,3192,6740,2012-04-06,2,2012,American Reunion (2012),Spring
+897,The 40-Year-Old Virgin,21422815,109449237,19.6%,2845,7529,2005-08-19,3,2005,The 40-Year-Old Virgin (2005),Summer
+898,The Stepford Wives,21406781,59484742,36%,3057,7002,2004-06-11,3,2004,The Stepford Wives (2004),Summer
+899,Good Boys,21402605,83140306,25.7%,3204,6679,2019-08-16,3,2019,Good Boys (2019),Summer
+900,Safe Haven,21401594,71349120,30%,3223,6640,2013-02-14,1,2013,Safe Haven (2013),Winter
+901,The Forbidden Kingdom,21401121,52075270,41.1%,3151,6791,2008-04-18,2,2008,The Forbidden Kingdom (2008),Spring
+902,The Hitman's Bodyguard,21384504,75468583,28.3%,3377,6332,2017-08-18,3,2017,The Hitman's Bodyguard (2017),Summer
+903,Angel Has Fallen,21380987,69030436,31%,3286,6506,2019-08-23,3,2019,Angel Has Fallen (2019),Summer
+904,Ice Age: Collision Course,21373064,64063008,33.4%,3992,5353,2016-07-22,3,2016,Ice Age: Collision Course (2016),Summer
+905,Why Did I Get Married?,21353789,55204525,38.7%,2011,10618,2007-10-12,4,2007,Why Did I Get Married? (2007),Fall
+906,Turbo,21312625,83028128,25.7%,3806,5599,2013-07-17,3,2013,Turbo (2013),Summer
+907,Storks,21311407,72679278,29.3%,3922,5433,2016-09-23,4,2016,Storks (2016),Fall
+908,My Bloody Valentine,21241456,51545952,41.2%,2534,8382,2009-01-16,1,2009,My Bloody Valentine (2009),Winter
+909,Happy Feet Two,21237068,64006466,33.2%,3606,5889,2011-11-18,4,2011,Happy Feet Two (2011),Fall
+910,Boo 2! A Madea Halloween,21226953,47319572,44.9%,2388,8889,2017-10-20,4,2017,Boo 2! A Madea Halloween (2017),Fall
+911,Payback,21221526,81526121,26%,2729,7776,1999-02-05,1,1999,Payback (1999),Winter
+912,Four Brothers,21176925,74494381,28.4%,2533,8360,2005-08-12,3,2005,Four Brothers (2005),Summer
+913,Waterworld,21171780,88246220,24%,2268,9335,1995-07-28,3,1995,Waterworld (1995),Summer
+914,The Adjustment Bureau,21157730,62495645,33.8%,2840,7449,2011-03-04,2,2011,The Adjustment Bureau (2011),Spring
+915,The Hitchhiker's Guide to the Galaxy,21103203,51085416,41.3%,3133,6735,2005-04-29,2,2005,The Hitchhiker's Guide to the Galaxy (2005),Spring
+916,Bride Wars,21058173,58715510,35.9%,3226,6527,2009-01-09,1,2009,Bride Wars (2009),Winter
+917,13 Going on 30,21054283,57231747,36.8%,3438,6123,2004-04-23,2,2004,13 Going on 30 (2004),Spring
+918,Resident Evil: Retribution,21052227,42345531,49.7%,3012,6989,2012-09-14,4,2012,Resident Evil: Retribution (2012),Fall
+919,Project X,21051363,54731865,38.5%,3055,6890,2012-03-02,2,2012,Project X (2012),Spring
+920,Law Abiding Citizen,21039502,73357727,28.7%,2890,7280,2009-10-16,4,2009,Law Abiding Citizen (2009),Fall
+921,The Hunchback of Notre Dame,21037414,100138851,21%,2778,7572,1996-06-21,3,1996,The Hunchback of Notre Dame (1996),Summer
+922,Valkyrie,21027007,83077833,25.3%,2711,7756,2008-12-25,1,2008,Valkyrie (2008),Winter
+923,The Forgotten,21022111,67133509,31.3%,3104,6772,2004-09-24,4,2004,The Forgotten (2004),Fall
+924,Journey to the Center of the Earth,21018141,101704370,20.7%,2811,7477,2008-07-11,3,2008,Journey to the Center of the Earth (2008),Summer
+925,The Strangers,20997985,52597610,39.9%,2466,8514,2008-05-30,2,2008,The Strangers (2008),Spring
+926,Insomnia,20930169,67355513,31.1%,2610,8019,2002-05-24,2,2002,Insomnia (2002),Spring
+927,Scary Stories to Tell in the Dark,20915346,68947075,30.3%,3135,6671,2019-08-09,3,2019,Scary Stories to Tell in the Dark (2019),Summer
+928,Remember the Titans,20905831,115654751,18.1%,1865,11209,2000-09-29,4,2000,Remember the Titans (2000),Fall
+929,The Woman in Black,20874072,54333290,38.4%,2855,7311,2012-02-03,1,2012,The Woman in Black (2012),Winter
+930,Seabiscuit,20854735,120277854,17.3%,1989,10485,2003-07-25,3,2003,Seabiscuit (2003),Summer
+931,Underworld: Rise of the Lycans,20828511,45802315,45.5%,2942,7079,2009-01-23,1,2009,Underworld: Rise of the Lycans (2009),Winter
+932,The Grudge 2,20825300,39143839,53.2%,3211,6485,2006-10-13,4,2006,The Grudge 2 (2006),Fall
+933,The Naked Gun 2½: The Smell of Fear,20817139,86930411,24%,2378,8754,1991-06-28,3,1991,The Naked Gun 2½: The Smell of Fear (1991),Summer
+934,Prisoners,20817053,61002302,34.1%,3260,6385,2013-09-20,4,2013,Prisoners (2013),Fall
+935,Prom Night,20804941,43869350,47.4%,2700,7705,2008-04-11,2,2008,Prom Night (2008),Spring
+936,Looper,20801552,66486205,31.3%,2992,6952,2012-09-28,4,2012,Looper (2012),Fall
+937,This Is the End,20719162,101470202,20.4%,3055,6782,2013-06-12,3,2013,This Is the End (2013),Summer
+938,The Bounty Hunter,20686423,67061228,30.8%,3074,6729,2010-03-19,2,2010,The Bounty Hunter (2010),Spring
+939,Guess Who,20671446,68915888,30%,3147,6568,2005-03-25,2,2005,Guess Who (2005),Spring
+940,Step Up,20659573,65328121,31.6%,2467,8374,2006-08-11,3,2006,Step Up (2006),Summer
+941,The Wedding Ringer,20649306,64460211,32%,3003,6876,2015-01-16,1,2015,The Wedding Ringer (2015),Winter
+942,Barbershop,20627433,75782105,27.2%,1605,12851,2002-09-13,4,2002,Barbershop (2002),Fall
+943,1408,20617667,71985628,28.6%,2678,7698,2007-06-22,3,2007,1408 (2007),Summer
+944,Abominable,20612100,60716390,34%,4242,4859,2019-09-27,4,2019,Abominable (2019),Fall
+945,Contact,20584908,100920329,20.4%,1923,10704,1997-07-11,3,1997,Contact (1997),Summer
+946,Deja Vu,20574802,64038616,32.1%,3108,6619,2006-11-22,4,2006,Deja Vu (2006),Fall
+947,Blockers,20556350,60311495,34.1%,3379,6083,2018-04-06,2,2018,Blockers (2018),Spring
+948,Baby Driver,20553320,107825862,19.1%,3226,6371,2017-06-28,3,2017,Baby Driver (2017),Summer
+949,Gemini Man,20552372,48546770,42.3%,3642,5643,2019-10-11,4,2019,Gemini Man (2019),Fall
+950,End of Days,20523595,66889043,30.7%,2593,7915,1999-11-24,4,1999,End of Days (1999),Fall
+951,Takers,20512304,57744720,35.5%,2206,9298,2010-08-27,3,2010,Takers (2010),Summer
+952,Scary Movie 2,20503356,71308997,28.8%,3220,6367,2001-07-04,3,2001,Scary Movie 2 (2001),Summer
+953,Notorious,20497596,36843682,55.6%,1638,12513,2009-01-16,1,2009,Notorious (2009),Winter
+954,Mrs. Doubtfire,20468847,219195243,9.3%,1605,12753,1993-11-24,4,1993,Mrs. Doubtfire (1993),Fall
+955,The Lego Ninjago Movie,20433071,59281555,34.5%,4047,5048,2017-09-22,4,2017,The Lego Ninjago Movie (2017),Fall
+956,Life,20414775,64016268,31.9%,2594,7869,1999-04-16,2,1999,Life (1999),Spring
+957,Lethal Weapon 2,20388800,147253986,13.8%,1803,11308,1989-07-07,3,1989,Lethal Weapon 2 (1989),Summer
+958,Legally Blonde,20377426,96520674,21.1%,2620,7777,2001-07-13,3,2001,Legally Blonde (2001),Summer
+959,The Last Exorcism,20366613,41034350,49.6%,2874,7086,2010-08-27,3,2010,The Last Exorcism (2010),Summer
+960,The Upside,20355000,108252517,18.8%,3080,6608,2019-01-11,1,2019,The Upside (2019),Winter
+961,Warm Bodies,20353967,66380662,30.7%,3009,6764,2013-02-01,1,2013,Warm Bodies (2013),Winter
+962,The Nutcracker and the Four Realms,20352491,54858851,37.1%,3766,5404,2018-11-02,4,2018,The Nutcracker and the Four Realms (2018),Fall
+963,Clear and Present Danger,20348017,122187717,16.6%,2378,8556,1994-08-05,3,1994,Clear and Present Danger (1994),Summer
+964,John Q,20275194,71756802,28.3%,2466,8221,2002-02-15,1,2002,John Q (2002),Winter
+965,Annabelle Comes Home,20269723,74152591,27.3%,3613,5610,2019-06-26,3,2019,Annabelle Comes Home (2019),Summer
+966,Friday Night Lights,20269025,61255921,33.1%,2667,7599,2004-10-08,4,2004,Friday Night Lights (2004),Fall
+967,Pain & Gain,20244505,49875291,40.6%,3277,6177,2013-04-26,2,2013,Pain & Gain (2013),Spring
+968,Barbershop: The Next Cut,20242415,54030051,37.5%,2661,7607,2016-04-15,2,2016,Barbershop: The Next Cut (2016),Spring
+969,Deepwater Horizon,20223544,61433527,32.9%,3259,6205,2016-09-30,4,2016,Deepwater Horizon (2016),Fall
+970,The Pink Panther,20220412,82226474,24.6%,3477,5815,2006-02-10,1,2006,The Pink Panther (2006),Winter
+971,We Were Soldiers,20212543,78122718,25.9%,3143,6430,2002-03-01,2,2002,We Were Soldiers (2002),Spring
+972,Eight Below,20188176,81612565,24.7%,3066,6584,2006-02-17,1,2006,Eight Below (2006),Winter
+973,Rambo: First Blood Part II,20176217,150415432,13.4%,2074,9728,1985-05-22,2,1985,Rambo: First Blood Part II (1985),Spring
+974,What Happens in Vegas,20172474,80277646,25.1%,3215,6274,2008-05-09,2,2008,What Happens in Vegas (2008),Spring
+975,Kicking & Screaming,20159925,52842724,38.2%,3455,5835,2005-05-13,2,2005,Kicking & Screaming (2005),Spring
+976,Lost in Space,20154919,69117629,29.2%,3306,6096,1998-04-03,2,1998,Lost in Space (1998),Spring
+977,Silent Hill,20152598,46982632,42.9%,2926,6887,2006-04-21,2,2006,Silent Hill (2006),Spring
+978,Entrapment,20145595,87704396,23%,2814,7159,1999-04-30,2,1999,Entrapment (1999),Spring
+979,Knight and Day,20139985,76423035,26.4%,3098,6500,2010-06-23,3,2010,Knight and Day (2010),Summer
+980,Bewitched,20131130,63313159,31.8%,3174,6342,2005-06-24,3,2005,Bewitched (2005),Summer
+981,xXx: Return of Xander Cage,20130142,44898413,44.8%,3651,5513,2017-01-20,1,2017,xXx: Return of Xander Cage (2017),Winter
+982,Final Destination 3,20125000,54098051,37.2%,2880,6987,2006-02-10,1,2006,Final Destination 3 (2006),Winter
+983,Beavis and Butt-Head Do America,20114233,63118386,31.9%,2190,9184,1996-12-20,1,1996,Beavis and Butt-Head Do America (1996),Winter
+984,The Mexican,20108829,66845033,30.1%,2951,6814,2001-03-02,2,2001,The Mexican (2001),Spring
+985,Meet the Browns,20082809,41975388,47.8%,2006,10011,2008-03-21,2,2008,Meet the Browns (2008),Spring
+986,Zookeeper,20065617,80360843,25%,3482,5762,2011-07-08,3,2011,Zookeeper (2011),Summer
+987,Ray,20039730,75331600,26.6%,2006,9989,2004-10-29,4,2004,Ray (2004),Fall
+988,Enemy of the State,20038573,111549836,18%,2393,8373,1998-11-20,4,1998,Enemy of the State (1998),Fall
+989,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,20030473,78656813,25.5%,2868,6984,1991-03-22,2,1991,Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991),Spring
+990,Julie & Julia,20027956,94125426,21.3%,2354,8508,2009-08-07,3,2009,Julie & Julia (2009),Summer
+991,The Manchurian Candidate,20018620,65955630,30.4%,2867,6982,2004-07-30,3,2004,The Manchurian Candidate (2004),Summer
+992,Rocky IV,19991537,127873716,15.6%,1325,15087,1985-11-27,4,1985,Rocky IV (1985),Fall
+993,Pitch Perfect 3,19928525,104897530,19%,3447,5781,2017-12-22,1,2017,Pitch Perfect 3 (2017),Winter
+994,102 Dalmatians,19883351,66957026,29.7%,2704,7353,2000-11-22,4,2000,102 Dalmatians (2000),Fall
+995,Ouija,19875995,50856010,39.1%,2858,6954,2014-10-24,4,2014,Ouija (2014),Fall
+996,Kick-Ass,19828687,48071303,41.2%,3065,6469,2010-04-16,2,2010,Kick-Ass (2010),Spring
+997,The Unborn,19810585,42670410,46.4%,2357,8405,2009-01-09,1,2009,The Unborn (2009),Winter
+998,The Cable Guy,19806226,60240295,32.9%,2657,7454,1996-06-14,3,1996,The Cable Guy (1996),Summer
+999,Spawn,19738749,54870175,36%,2536,7783,1997-08-01,3,1997,Spawn (1997),Summer
